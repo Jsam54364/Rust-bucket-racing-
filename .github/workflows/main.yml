@@ -28,7 +28,9 @@ jobs:
         env:
           GH_TOKEN: ${{ github.token }}
         run: |
-          if [ -f RustBucketRacing-Godot.zip ]; then rm -rf unpacked; unzip -q RustBucketRacing-Godot.zip -d unpacked; fi
+          zip="$(ls RustBucketRacing-Godot-v*.zip 2>/dev/null | sort -V | tail -n 1)"
+          if [ -z "$zip" ] && [ -f RustBucketRacing-Godot.zip ]; then zip=RustBucketRacing-Godot.zip; fi
+          if [ -n "$zip" ]; then echo "Building $zip"; rm -rf unpacked; unzip -q "$zip" -d unpacked; fi
           script="$(find . -path ./.git -prune -o -path '*/ci/build.sh' -print | head -n 1)"
           if [ -z "$script" ]; then echo "ci/build.sh not found: upload the latest RustBucketRacing-Godot.zip"; exit 1; fi
           bash "$script"
