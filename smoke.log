@@ -1,0 +1,687 @@
+Godot Engine v4.7.2.stable.mono.official.ed1daf0bf - https://godotengine.org
+WARNING: Could not set V-Sync mode, as changing V-Sync mode is not supported by the graphics driver.
+     at: set_use_vsync (platform/linuxbsd/x11/gl_manager_x11.cpp:372)
+OpenGL API 4.5 (Core Profile) Mesa 25.2.8-0ubuntu0.24.04.4 - Compatibility - Using Device: Mesa - llvmpipe (LLVM 20.1.2, 256 bits)
+
+[boot] loading the game
+[boot] main: start · v1.17 · Linux 24.04 · GenericDevice · Mesa llvmpipe (LLVM 20.1.2, 256 bits) · 4.5 (Core Profile) Mesa 25.2.8-0ubuntu0.24.04.4 · Godot 4.7.2-stable (official)
+[boot] settings
+[boot] map library
+[boot] scene
+[boot] sky kloofendal_48d_partly_cloudy_puresky: panorama x0.87, sun 1.24 at 48 deg, ambient grey 0.65
+[boot] quality 0: 3D scale 1.00, msaa Msaa4X, shadows True
+[boot] proving ground
+[boot] proving ground features: 52, 1653k triangles; largest: rumble/Rumble 202k, rumble/Rumble 202k, bumps 84k, strip/Grass 66k, strip/Gravel 66k, strip/Dirt 66k, bowl 65k, moguls 43k
+[boot] car model rust
+[boot] car model rust
+[boot] car physics
+[boot] sound
+[boot] ui
+[boot] front end
+[boot] ready
+[smoke] start · v1.17 · Linux 24.04 · GenericDevice · Mesa llvmpipe (LLVM 20.1.2, 256 bits) · 4.5 (Core Profile) Mesa 25.2.8-0ubuntu0.24.04.4 · Godot 4.7.2-stable (official)
+[smoke] rust on flat tarmac (simulation only): 0-100 km/h 13.0 s, quarter mile 18.8 s at 122 km/h, top speed 181 km/h (gear 5, 5501 rpm)
+[smoke] monte on flat tarmac (simulation only): 0-100 km/h 6.0 s, quarter mile 14.2 s at 170 km/h, top speed 260 km/h (gear 5, 5772 rpm)
+[smoke] cts on flat tarmac (simulation only): 0-100 km/h 3.8 s, quarter mile 11.8 s at 199 km/h, top speed 269 km/h (gear 6, 7631 rpm)
+[smoke] civic on flat tarmac (simulation only): 0-100 km/h 7.1 s, quarter mile 15.4 s at 153 km/h, top speed 226 km/h (gear 5, 7518 rpm)
+[boot] quality 1: 3D scale 1.00, msaa Msaa2X, shadows True
+[boot] menus
+[smoke]   1.1s main menu | grid/rust cam 0 | pos 0.0 0.47 4.9 | 0 km/h 800 rpm gear 1 | 2 fps 103 draws 7990 tris
+[smoke]   2.1s main menu | grid/rust cam 0 | pos 0.0 0.47 4.9 | 0 km/h 800 rpm gear 1 | 5 fps 103 draws 7990 tris
+[smoke]   3.2s main menu | grid/rust cam 0 | pos 0.0 0.47 4.9 | 0 km/h 800 rpm gear 1 | 6 fps 102 draws 7978 tris
+[smoke] screenshot /home/runner/work/Rust-bucket-racing-/Rust-bucket-racing-/out/shots/01-main-menu.jpg
+[boot] running
+[perf] long frame 133 ms · grid/rust cam 0 · 0 km/h · gc this frame: no · puffs 0 · loading False
+[perf] long frame 136 ms · grid/rust cam 0 · 0 km/h · gc this frame: no · puffs 0 · loading False
+[smoke]   4.3s garage | grid/rust cam 0 | pos 0.0 0.47 4.9 | 0 km/h 800 rpm gear 1 | 5 fps 134 draws 9796 tris
+[perf] long frame 130 ms · grid/rust cam 0 · 0 km/h · gc this frame: no · puffs 0 · loading False
+[perf] long frame 128 ms · grid/rust cam 0 · 0 km/h · gc this frame: no · puffs 0 · loading False
+[perf] long frame 128 ms · grid/rust cam 0 · 0 km/h · gc this frame: no · puffs 0 · loading False
+[perf] long frame 148 ms · grid/rust cam 0 · 0 km/h · gc this frame: no · puffs 0 · loading False
+[perf] long frame 133 ms · grid/rust cam 0 · 0 km/h · gc this frame: no · puffs 0 · loading False
+[perf] long frame 133 ms · grid/rust cam 0 · 0 km/h · gc this frame: no · puffs 0 · loading False
+[perf] long frame 133 ms · grid/rust cam 0 · 0 km/h · gc this frame: no · puffs 0 · loading False
+[perf] long frame 131 ms · grid/rust cam 0 · 0 km/h · gc this frame: no · puffs 0 · loading False
+[smoke]   5.3s garage | grid/rust cam 0 | pos 0.0 0.47 4.9 | 0 km/h 800 rpm gear 1 | 5 fps 134 draws 9796 tris
+[perf] long frame 132 ms · grid/rust cam 0 · 0 km/h · gc this frame: no · puffs 0 · loading False
+[perf] long frame 133 ms · grid/rust cam 0 · 0 km/h · gc this frame: no · puffs 0 · loading False
+[perf] long frame 133 ms · grid/rust cam 0 · 0 km/h · gc this frame: no · puffs 0 · loading False
+[perf] long frame 133 ms · grid/rust cam 0 · 0 km/h · gc this frame: no · puffs 0 · loading False
+[perf] long frame 133 ms · grid/rust cam 0 · 0 km/h · gc this frame: no · puffs 0 · loading False
+[perf] long frame 133 ms · grid/rust cam 0 · 0 km/h · gc this frame: no · puffs 0 · loading False
+[perf] long frame 133 ms · grid/rust cam 0 · 0 km/h · gc this frame: no · puffs 0 · loading False
+[perf] long frame 133 ms · grid/rust cam 0 · 0 km/h · gc this frame: no · puffs 0 · loading False
+[smoke]   6.4s garage | grid/rust cam 0 | pos 0.0 0.47 4.9 | 0 km/h 800 rpm gear 1 | 6 fps 134 draws 9796 tris
+[perf] long frame 133 ms · grid/rust cam 0 · 0 km/h · gc this frame: no · puffs 0 · loading False
+[perf] long frame 133 ms · grid/rust cam 0 · 0 km/h · gc this frame: no · puffs 0 · loading False
+[smoke] screenshot /home/runner/work/Rust-bucket-racing-/Rust-bucket-racing-/out/shots/02-garage.jpg
+[perf] long frame 138 ms · grid/rust cam 0 · 0 km/h · gc this frame: no · puffs 0 · loading False
+[perf] long frame 135 ms · grid/rust cam 0 · 0 km/h · gc this frame: no · puffs 0 · loading False
+[perf] long frame 130 ms · grid/rust cam 0 · 0 km/h · gc this frame: no · puffs 0 · loading False
+[perf] long frame 135 ms · grid/rust cam 0 · 0 km/h · gc this frame: no · puffs 0 · loading False
+[perf] long frame 132 ms · grid/rust cam 0 · 0 km/h · gc this frame: no · puffs 0 · loading False
+[perf] long frame 124 ms · grid/rust cam 0 · 0 km/h · gc this frame: no · puffs 0 · loading False
+[smoke] screenshot /home/runner/work/Rust-bucket-racing-/Rust-bucket-racing-/out/shots/03-garage-turned.jpg
+[smoke]   7.5s garage: monte | grid/rust cam 0 | pos 0.0 0.47 4.9 | 0 km/h 800 rpm gear 1 | 5 fps 134 draws 9796 tris
+[perf] long frame 141 ms · grid/rust cam 0 · 0 km/h · gc this frame: no · puffs 0 · loading False
+[perf] long frame 131 ms · grid/rust cam 0 · 0 km/h · gc this frame: no · puffs 0 · loading False
+[boot] car model monte
+[perf] long frame 140 ms · grid/rust cam 0 · 0 km/h · gc this frame: full · puffs 0 · loading False
+[perf] long frame 131 ms · grid/rust cam 0 · 0 km/h · gc this frame: no · puffs 0 · loading False
+[perf] long frame 120 ms · grid/rust cam 0 · 0 km/h · gc this frame: no · puffs 0 · loading False
+[perf] long frame 136 ms · grid/rust cam 0 · 0 km/h · gc this frame: no · puffs 0 · loading False
+[perf] long frame 134 ms · grid/rust cam 0 · 0 km/h · gc this frame: no · puffs 0 · loading False
+[perf] long frame 143 ms · grid/rust cam 0 · 0 km/h · gc this frame: no · puffs 0 · loading False
+[smoke]   8.5s garage: monte | grid/rust cam 0 | pos 0.0 0.47 4.9 | 0 km/h 800 rpm gear 1 | 2 fps 170 draws 154912 tris
+[perf] long frame 128 ms · grid/rust cam 0 · 0 km/h · gc this frame: no · puffs 0 · loading False
+[perf] long frame 128 ms · grid/rust cam 0 · 0 km/h · gc this frame: no · puffs 0 · loading False
+[perf] long frame 144 ms · grid/rust cam 0 · 0 km/h · gc this frame: no · puffs 0 · loading False
+[perf] long frame 130 ms · grid/rust cam 0 · 0 km/h · gc this frame: no · puffs 0 · loading False
+[smoke] screenshot /home/runner/work/Rust-bucket-racing-/Rust-bucket-racing-/out/shots/04-garage-monte.jpg
+[perf] long frame 128 ms · grid/rust cam 0 · 0 km/h · gc this frame: no · puffs 0 · loading False
+[perf] long frame 143 ms · grid/rust cam 0 · 0 km/h · gc this frame: no · puffs 0 · loading False
+[boot] car model cts
+[smoke]   9.6s garage: cts | grid/rust cam 0 | pos 0.0 0.47 4.9 | 0 km/h 800 rpm gear 1 | 2 fps 194 draws 189246 tris
+[smoke] screenshot /home/runner/work/Rust-bucket-racing-/Rust-bucket-racing-/out/shots/05-garage-cts.jpg
+[smoke]  10.7s garage: civic | grid/rust cam 0 | pos 0.0 0.47 4.9 | 0 km/h 800 rpm gear 1 | 2 fps 194 draws 189246 tris
+[boot] car model civic
+[smoke]  11.7s garage: civic | grid/rust cam 0 | pos 0.0 0.47 4.9 | 0 km/h 800 rpm gear 1 | 3 fps 193 draws 46859 tris
+[smoke] screenshot /home/runner/work/Rust-bucket-racing-/Rust-bucket-racing-/out/shots/06-garage-civic.jpg
+[smoke]  12.8s front end pages | grid/rust cam 0 | pos 0.0 0.47 4.9 | 0 km/h 800 rpm gear 1 | 3 fps 134 draws 9796 tris
+[smoke] screenshot /home/runner/work/Rust-bucket-racing-/Rust-bucket-racing-/out/shots/07-page-timetrial.jpg
+[smoke] screenshot /home/runner/work/Rust-bucket-racing-/Rust-bucket-racing-/out/shots/08-page-career.jpg
+[smoke]  13.9s front end pages | grid/rust cam 0 | pos 0.0 0.47 4.9 | 0 km/h 800 rpm gear 1 | 5 fps 90 draws 9124 tris
+[smoke] screenshot /home/runner/work/Rust-bucket-racing-/Rust-bucket-racing-/out/shots/09-page-online.jpg
+[smoke] screenshot /home/runner/work/Rust-bucket-racing-/Rust-bucket-racing-/out/shots/10-page-howto.jpg
+[smoke]  14.9s front end pages | grid/rust cam 0 | pos 0.0 0.47 4.9 | 0 km/h 800 rpm gear 1 | 5 fps 76 draws 9588 tris
+[smoke] screenshot /home/runner/work/Rust-bucket-racing-/Rust-bucket-racing-/out/shots/11-page-credits.jpg
+[smoke] screenshot /home/runner/work/Rust-bucket-racing-/Rust-bucket-racing-/out/shots/12-settings-audio.jpg
+[smoke]  16.0s settings | grid/rust cam 0 | pos 0.0 0.47 4.9 | 0 km/h 800 rpm gear 1 | 4 fps 141 draws 10786 tris
+[smoke] screenshot /home/runner/work/Rust-bucket-racing-/Rust-bucket-racing-/out/shots/13-settings-display.jpg
+[smoke] screenshot /home/runner/work/Rust-bucket-racing-/Rust-bucket-racing-/out/shots/14-settings-driving.jpg
+[smoke]  17.1s settings | grid/rust cam 0 | pos 0.0 0.47 4.9 | 0 km/h 800 rpm gear 1 | 5 fps 135 draws 11108 tris
+[smoke] screenshot /home/runner/work/Rust-bucket-racing-/Rust-bucket-racing-/out/shots/15-settings-controls.jpg
+[smoke] screenshot /home/runner/work/Rust-bucket-racing-/Rust-bucket-racing-/out/shots/16-settings-other.jpg
+[smoke] audio mix (rust), each kind on its own: engine idle -19.6 dB (loudest -18.4) · engine full throttle -9.4 dB (loudest -9.3) · tyres rolling 100 km/h -17.4 dB (loudest -16.6) · tyres sliding -10.1 dB (loudest -8.9) · gravel 60 km/h -17.4 dB (loudest -15.4) · crash 70 km/h -11.5 dB (loudest -6.1) · crunch 30 km/h -13.3 dB (loudest -5.3) · knock 10 km/h -20.2 dB (loudest -11.9) · cone 40 km/h -21.3 dB (loudest -14.4) · gear change -20.5 dB (loudest -13.2) · wind 160 km/h -25.8 dB (loudest -24.4) · everything, full throttle at 100 km/h -9.2 dB (loudest -8.6)
+[smoke]  18.1s audio mix | grid/rust cam 0 | pos 0.0 0.47 4.9 | 0 km/h 800 rpm gear 1 | 4 fps 107 draws 9934 tris
+[smoke] front end: main menu, garage, 5 settings tabs and the mode pages all open
+[smoke]  19.2s free roam | grid/rust cam 0 | pos 0.0 0.47 4.9 | 0 km/h 800 rpm gear 1 | 3 fps 103 draws 8804 tris
+[smoke] screenshot /home/runner/work/Rust-bucket-racing-/Rust-bucket-racing-/out/shots/17-free-roam.jpg
+[boot] drive
+[smoke]  20.3s touch controls | grid/rust cam 0 | pos 0.0 0.47 4.9 | 0 km/h 800 rpm gear 1 | 1 fps 171 draws 1310450 tris
+[smoke]  21.3s touch controls | grid/rust cam 0 | pos 0.0 0.47 3.9 | 10 km/h 3071 rpm gear 1 | 1 fps 171 draws 1310362 tris
+[smoke] screenshot /home/runner/work/Rust-bucket-racing-/Rust-bucket-racing-/out/shots/18-touch-gas.jpg
+[smoke]  22.4s touch controls | grid/rust cam 0 | pos 0.0 0.47 0.4 | 18 km/h 2323 rpm gear 1 | 2 fps 171 draws 1310368 tris
+[smoke]  23.5s touch controls | grid/rust cam 0 | pos 0.0 0.47 -0.9 | -0 km/h 800 rpm gear 1 | 2 fps 169 draws 1304610 tris
+[smoke] touch gas pedal: 20 km/h after 1.5 s
+[smoke]  24.5s rust: launch | grid/rust cam 0 | pos -0.0 0.47 -0.5 | -0 km/h 924 rpm gear -1 | 2 fps 169 draws 1304610 tris
+[smoke]  25.6s rust: launch | grid/rust cam 0 | pos -0.0 0.47 -1.1 | 9 km/h 3268 rpm gear 1 | 1 fps 169 draws 1304610 tris
+[smoke]  26.7s rust: launch | grid/rust cam 0 | pos -0.0 0.47 -4.6 | 22 km/h 3400 rpm gear 1 | 1 fps 169 draws 1301506 tris
+[smoke]  27.7s rust: launch | grid/rust cam 0 | pos 0.0 0.47 -10.6 | 31 km/h 4506 rpm gear 1 | 1 fps 169 draws 1301506 tris
+[smoke] screenshot /home/runner/work/Rust-bucket-racing-/Rust-bucket-racing-/out/shots/19-rust-chase.jpg
+[smoke]  28.8s rust: turn | grid/rust cam 0 | pos -0.4 0.47 -18.4 | 38 km/h 5522 rpm gear 1 | 1 fps 168 draws 1237610 tris
+[smoke]  29.9s rust: turn | grid/rust cam 0 | pos -4.6 0.47 -25.7 | 38 km/h 5463 rpm gear 1 | 2 fps 165 draws 1127278 tris
+[smoke] screenshot /home/runner/work/Rust-bucket-racing-/Rust-bucket-racing-/out/shots/20-rust-turn.jpg
+[smoke]  30.9s free revs | grid/rust cam 0 | pos -12.2 0.47 -29.2 | 39 km/h 5460 rpm gear 1 | 2 fps 162 draws 882184 tris
+[smoke] free revs (clutch out): 5460 -> 3773 rpm in 0.5 s (idle 800)
+[smoke]  32.0s rust: cameras | grid/rust cam 1 | pos -19.7 0.47 -29.4 | 27 km/h 3607 rpm gear 1 | 2 fps 166 draws 909642 tris
+[smoke] screenshot /home/runner/work/Rust-bucket-racing-/Rust-bucket-racing-/out/shots/21-rust-orbit-cam.jpg
+[smoke]  33.1s rust: cameras | grid/rust cam 2 | pos -24.5 0.47 -26.4 | 23 km/h 3445 rpm gear 1 | 3 fps 137 draws 171380 tris
+[smoke] screenshot /home/runner/work/Rust-bucket-racing-/Rust-bucket-racing-/out/shots/22-rust-bumper-cam.jpg
+[perf] 7 fps · worst 150 ms · 225 frames over 70 ms · gc 3 minor / 2 full · managed 30 MB · engine 122 MB · video 235 MB · 150 draws 859k tris · grid/rust · quality 1
+[smoke] screenshot /home/runner/work/Rust-bucket-racing-/Rust-bucket-racing-/out/shots/23-rust-trackside-cam.jpg
+[smoke]  34.1s rust: cameras | grid/rust cam 0 | pos -26.2 0.47 -21.3 | 25 km/h 3438 rpm gear 1 | 1 fps 141 draws 79020 tris
+[smoke]  35.2s rust: free camera | grid/rust cam 5 | pos -27.1 0.47 -17.9 | 4 km/h 1746 rpm gear 1 | 4 fps 39 draws 72156 tris
+[smoke] screenshot /home/runner/work/Rust-bucket-racing-/Rust-bucket-racing-/out/shots/24-rust-free-cam.jpg
+[smoke] free camera: flew 19.8 m, the car at 0 km/h
+[smoke] free camera UI: pad shown, driving controls hidden, HUD hidden
+[smoke]  36.2s rust: free camera | grid/rust cam 5 | pos -27.1 0.47 -17.8 | 0 km/h 800 rpm gear 1 | 5 fps 26 draws 88368 tris
+[smoke]  37.3s rust: free camera | grid/rust cam 5 | pos -27.1 0.47 -17.8 | 0 km/h 800 rpm gear 1 | 4 fps 31 draws 288400 tris
+[smoke] screenshot /home/runner/work/Rust-bucket-racing-/Rust-bucket-racing-/out/shots/25-rust-free-cam-pad.jpg
+[smoke] free camera joystick at super speed: 97 m in 1.5 s
+[smoke]  38.4s rust: free camera | grid/rust cam 0 | pos -27.1 0.47 -17.8 | 0 km/h 800 rpm gear 1 | 6 fps 144 draws 147144 tris
+[smoke] back from the free camera: driving controls shown, HUD shown
+[smoke]  39.4s rust: brake | grid/rust cam 0 | pos -27.1 0.47 -17.9 | -2 km/h 2634 rpm gear -1 | 4 fps 147 draws 147302 tris
+[smoke]  40.5s crash test 72 km/h | grid/rust cam 0 | pos 55.0 0.47 127.6 | -10 km/h 800 rpm gear 1 | 4 fps 144 draws 146452 tris
+[smoke]  41.6s crash test 72 km/h | grid/rust cam 0 | pos 55.4 0.48 137.4 | 0 km/h 4475 rpm gear 2 | 4 fps 139 draws 32386 tris
+[smoke] crash into a wall at 72 km/h: came back off it at 4.7 km/h, spin up to 0.8 rad/s, at z 137.6 (wall face 139.5), 2 impact sounds
+[smoke] screenshot /home/runner/work/Rust-bucket-racing-/Rust-bucket-racing-/out/shots/26-crash-72kmh.jpg
+[smoke]  42.6s crash test 120 km/h | grid/rust cam 0 | pos 55.0 0.47 127.6 | -0 km/h 800 rpm gear 1 | 4 fps 139 draws 32390 tris
+[smoke]  43.7s crash test 120 km/h | grid/rust cam 0 | pos 55.9 0.46 137.7 | 0 km/h 3167 rpm gear 3 | 4 fps 139 draws 32448 tris
+[smoke] crash into a wall at 120 km/h: came back off it at 2.2 km/h, spin up to 1.3 rad/s, at z 137.8 (wall face 139.5), 1 impact sounds
+[smoke] screenshot /home/runner/work/Rust-bucket-racing-/Rust-bucket-racing-/out/shots/27-crash-120kmh.jpg
+[smoke]  44.8s glancing hit at 12 deg | grid/rust cam 0 | pos -9.9 0.47 133.5 | -0 km/h 800 rpm gear 1 | 3 fps 140 draws 58320 tris
+[smoke]  45.8s glancing hit at 12 deg | grid/rust cam 0 | pos 9.4 0.47 137.6 | 88 km/h 4455 rpm gear 3 | 3 fps 147 draws 380620 tris
+[smoke]  46.9s glancing hit at 12 deg | grid/rust cam 0 | pos 27.8 0.47 138.4 | 81 km/h 4120 rpm gear 3 | 2 fps 151 draws 441210 tris
+[smoke] glancing hit at 12 deg, 90 km/h: 80 km/h a second later (89 %), heading 12 -> -1.9 deg (along the wall is 0), deepest hull point -2 cm into the wall, 1 impact sounds
+[smoke] screenshot /home/runner/work/Rust-bucket-racing-/Rust-bucket-racing-/out/shots/28-glance-12.jpg
+[smoke]  48.0s glancing hit at 25 deg | grid/rust cam 0 | pos -0.9 0.47 137.7 | 89 km/h 6152 rpm gear 3 | 2 fps 143 draws 297878 tris
+[smoke]  49.0s glancing hit at 25 deg | grid/rust cam 0 | pos 15.7 0.43 138.5 | 70 km/h 3536 rpm gear 3 | 2 fps 150 draws 407874 tris
+[smoke] glancing hit at 25 deg, 90 km/h: 69 km/h a second later (77 %), heading 25 -> -0.3 deg (along the wall is 0), deepest hull point 0 cm into the wall, 1 impact sounds
+[smoke] screenshot /home/runner/work/Rust-bucket-racing-/Rust-bucket-racing-/out/shots/29-glance-25.jpg
+[smoke] screenshot /home/runner/work/Rust-bucket-racing-/Rust-bucket-racing-/out/shots/30-menu.jpg
+[boot] menus
+[smoke]  50.1s menus | grid/rust cam 0 | pos -0.0 0.47 4.9 | -0 km/h 800 rpm gear 1 | 2 fps 171 draws 1308892 tris
+[smoke] screenshot /home/runner/work/Rust-bucket-racing-/Rust-bucket-racing-/out/shots/31-car-setup.jpg
+[boot] drive
+[smoke]  51.2s menus | grid/rust cam 0 | pos 0.0 0.47 4.9 | 0 km/h 800 rpm gear 1 | 2 fps 167 draws 1310102 tris
+[boot] menus
+[smoke] screenshot /home/runner/work/Rust-bucket-racing-/Rust-bucket-racing-/out/shots/32-settings-over-the-drive.jpg
+[boot] drive
+[smoke]  52.2s menus | grid/rust cam 0 | pos 0.0 0.47 4.9 | -0 km/h 800 rpm gear 1 | 1 fps 167 draws 1310102 tris
+[boot] menus
+[smoke]  53.3s pause to the main menu | grid/rust cam 0 | pos -0.0 0.47 4.9 | 0 km/h 800 rpm gear 1 | 4 fps 113 draws 8400 tris
+[smoke] screenshot /home/runner/work/Rust-bucket-racing-/Rust-bucket-racing-/out/shots/33-pause-main-menu.jpg
+[boot] drive
+[smoke]  54.4s pause to the main menu | grid/rust cam 0 | pos -0.0 0.47 4.9 | 1 km/h 1457 rpm gear 1 | 1 fps 170 draws 1310254 tris
+[smoke] screenshot /home/runner/work/Rust-bucket-racing-/Rust-bucket-racing-/out/shots/34-resumed.jpg
+[smoke] screenshot /home/runner/work/Rust-bucket-racing-/Rust-bucket-racing-/out/shots/35-telemetry.jpg
+[smoke]  55.4s pause to the main menu | grid/rust cam 0 | pos -0.0 0.47 4.3 | 3 km/h 819 rpm gear 1 | 2 fps 236 draws 1314654 tris
+[smoke] screenshot /home/runner/work/Rust-bucket-racing-/Rust-bucket-racing-/out/shots/36-mph.jpg
+[boot] quality 2: 3D scale 0.70, msaa Disabled, shadows False
+[smoke] screenshot /home/runner/work/Rust-bucket-racing-/Rust-bucket-racing-/out/shots/37-quality-low.jpg
+[boot] quality 0: 3D scale 1.00, msaa Msaa4X, shadows True
+[smoke]  56.5s graphics quality | grid/rust cam 0 | pos -0.0 0.47 3.5 | 5 km/h 1575 rpm gear 1 | 1 fps 156 draws 1161498 tris
+[smoke] screenshot /home/runner/work/Rust-bucket-racing-/Rust-bucket-racing-/out/shots/38-quality-high.jpg
+[boot] quality 1: 3D scale 1.00, msaa Disabled, shadows True
+[boot] loading car monte
+[smoke]  57.6s switch car monte | grid/monte cam 0 | pos 0.0 0.50 2.0 | 0 km/h 780 rpm gear 1 | 1 fps 169 draws 1310454 tris
+[smoke]  58.6s monte: launch | grid/monte cam 0 | pos -0.0 0.50 4.8 | 3 km/h 2060 rpm gear 1 | 4 fps 209 draws 1455834 tris
+[smoke]  59.7s monte: launch | grid/monte cam 0 | pos -0.0 0.50 2.7 | 16 km/h 2216 rpm gear 1 | 3 fps 207 draws 1455468 tris
+[smoke]  60.8s monte: launch | grid/monte cam 0 | pos -0.0 0.50 -2.5 | 32 km/h 3068 rpm gear 1 | 3 fps 207 draws 1455468 tris
+[smoke]  61.8s monte: launch | grid/monte cam 0 | pos -0.0 0.50 -11.3 | 47 km/h 4567 rpm gear 1 | 4 fps 206 draws 1446718 tris
+[smoke]  62.9s monte: launch | grid/monte cam 0 | pos -0.0 0.50 -23.5 | 63 km/h 6146 rpm gear 1 | 3 fps 208 draws 1453014 tris
+[smoke] monte full-throttle start: gears 1>2, 0 downshifts, 70 km/h after 4 s
+[smoke]  64.0s monte: drive | grid/monte cam 0 | pos 0.0 0.50 -38.4 | 73 km/h 4349 rpm gear 2 | 3 fps 206 draws 1534674 tris
+[perf] 8 fps · worst 147 ms · 226 frames over 70 ms · gc 0 minor / 0 full · managed 39 MB · engine 264 MB · video 217 MB · 206 draws 1534k tris · grid/monte · quality 1
+[smoke]  65.0s monte: drive | grid/monte cam 0 | pos 2.1 0.50 -55.2 | 79 km/h 4841 rpm gear 2 | 3 fps 205 draws 1605772 tris
+[smoke] screenshot /home/runner/work/Rust-bucket-racing-/Rust-bucket-racing-/out/shots/39-monte-chase.jpg
+[smoke]  66.1s monte: drive | grid/monte cam 4 | pos 8.9 0.50 -72.0 | 83 km/h 4963 rpm gear 2 | 3 fps 197 draws 1469258 tris
+[smoke] screenshot /home/runner/work/Rust-bucket-racing-/Rust-bucket-racing-/out/shots/40-monte-interior.jpg
+[smoke]  67.2s monte: drive | grid/monte cam 2 | pos 19.1 0.50 -88.3 | 89 km/h 5098 rpm gear 2 | 3 fps 175 draws 1201359 tris
+[smoke] screenshot /home/runner/work/Rust-bucket-racing-/Rust-bucket-racing-/out/shots/41-monte-bumper.jpg
+[boot] loading car cts
+[smoke]  68.2s switch car cts | grid/cts cam 0 | pos 27.0 0.42 -100.5 | 0 km/h 1100 rpm gear 1 | 2 fps 219 draws 1248014 tris
+[smoke]  69.3s cts: launch | grid/cts cam 0 | pos -0.0 0.42 4.5 | 9 km/h 3337 rpm gear 1 | 3 fps 228 draws 1490000 tris
+[smoke]  70.4s cts: launch | grid/cts cam 0 | pos 0.0 0.42 -0.2 | 33 km/h 3806 rpm gear 1 | 3 fps 226 draws 1489610 tris
+[smoke]  71.4s cts: launch | grid/cts cam 0 | pos 0.0 0.42 -10.1 | 57 km/h 4817 rpm gear 1 | 3 fps 225 draws 1480854 tris
+[smoke]  72.5s cts: launch | grid/cts cam 0 | pos 0.0 0.42 -25.4 | 81 km/h 6834 rpm gear 1 | 3 fps 224 draws 1483886 tris
+[smoke]  73.6s cts: launch | grid/cts cam 0 | pos 0.0 0.42 -45.4 | 97 km/h 6207 rpm gear 2 | 4 fps 223 draws 1564994 tris
+[smoke] cts full-throttle start: gears 1>2, 0 downshifts, 106 km/h after 4 s
+[smoke]  74.6s cts: drive | grid/cts cam 0 | pos 0.2 0.42 -68.8 | 111 km/h 6966 rpm gear 2 | 4 fps 222 draws 1534076 tris
+[smoke]  75.7s cts: drive | grid/cts cam 0 | pos 4.3 0.42 -94.0 | 119 km/h 7485 rpm gear 2 | 4 fps 221 draws 1468512 tris
+[smoke] screenshot /home/runner/work/Rust-bucket-racing-/Rust-bucket-racing-/out/shots/42-cts-chase.jpg
+[smoke]  76.8s cts: drive | grid/cts cam 4 | pos 13.9 0.44 -119.1 | 122 km/h 6456 rpm gear 3 | 3 fps 203 draws 1269958 tris
+[smoke] screenshot /home/runner/work/Rust-bucket-racing-/Rust-bucket-racing-/out/shots/43-cts-interior.jpg
+[smoke]  77.8s cts: drive | grid/cts cam 2 | pos 25.3 0.42 -144.6 | 126 km/h 6059 rpm gear 3 | 4 fps 166 draws 1183929 tris
+[smoke] screenshot /home/runner/work/Rust-bucket-racing-/Rust-bucket-racing-/out/shots/44-cts-bumper.jpg
+[boot] loading car civic
+[smoke]  78.9s civic: launch | grid/civic cam 0 | pos 0.0 0.50 4.7 | -0 km/h 900 rpm gear 1 | 5 fps 212 draws 983653 tris
+[smoke]  80.0s civic: launch | grid/civic cam 0 | pos -0.0 0.50 4.0 | 9 km/h 3815 rpm gear 1 | 4 fps 227 draws 1347589 tris
+[smoke]  81.0s civic: launch | grid/civic cam 0 | pos 0.0 0.50 0.6 | 23 km/h 4430 rpm gear 1 | 4 fps 225 draws 1347207 tris
+[smoke]  82.1s civic: launch | grid/civic cam 0 | pos 0.0 0.50 -6.0 | 37 km/h 5054 rpm gear 1 | 4 fps 224 draws 1338451 tris
+[smoke]  83.2s civic: launch | grid/civic cam 0 | pos 0.0 0.50 -15.7 | 50 km/h 6698 rpm gear 1 | 4 fps 224 draws 1338451 tris
+[smoke]  84.2s civic: launch | grid/civic cam 0 | pos 0.0 0.50 -28.3 | 64 km/h 8476 rpm gear 1 | 4 fps 224 draws 1341547 tris
+[smoke] civic full-throttle start: gears 1>2, 0 downshifts, 64 km/h after 4 s
+[smoke]  85.3s civic: drive | grid/civic cam 0 | pos 0.7 0.50 -42.8 | 67 km/h 5627 rpm gear 2 | 3 fps 222 draws 1422591 tris
+[smoke]  86.4s civic: drive | grid/civic cam 0 | pos 5.0 0.50 -57.5 | 71 km/h 5986 rpm gear 2 | 4 fps 225 draws 1520109 tris
+[smoke] screenshot /home/runner/work/Rust-bucket-racing-/Rust-bucket-racing-/out/shots/45-civic-chase.jpg
+[smoke]  87.4s civic: drive | grid/civic cam 4 | pos 13.0 0.51 -71.5 | 74 km/h 6118 rpm gear 2 | 3 fps 208 draws 1168001 tris
+[smoke] screenshot /home/runner/work/Rust-bucket-racing-/Rust-bucket-racing-/out/shots/46-civic-interior.jpg
+[smoke]  88.5s civic: drive | grid/civic cam 2 | pos 22.0 0.50 -85.7 | 76 km/h 6120 rpm gear 2 | 4 fps 188 draws 1123578 tris
+[smoke] screenshot /home/runner/work/Rust-bucket-racing-/Rust-bucket-racing-/out/shots/47-civic-bumper.jpg
+[boot] map catalogue: 6 maps available (result 0, http 200)
+[smoke] map catalogue: 6 maps available: Motorsport Compound (16.3 MB), Mt. Haruna (18.0 MB), Irohazaka (6.3 MB), Irohazaka Autumn (18.0 MB), Monte Carlo Rally (11.8 MB), Spa-Francorchamps (4.2 MB)
+[boot] menus
+[smoke]  89.6s map library: catalogue | grid/civic cam 0 | pos 27.6 0.50 -94.4 | 74 km/h 5948 rpm gear 2 | 4 fps 164 draws 49023 tris
+[smoke] screenshot /home/runner/work/Rust-bucket-racing-/Rust-bucket-racing-/out/shots/48-maps-page.jpg
+[boot] map download: compound 17127666 bytes
+[boot] map download: haruna 18850946 bytes
+[boot] map download: iroha 6595550 bytes
+[boot] map download: iroha_autumn 18894138 bytes
+[boot] map download: mcr 12364268 bytes
+[boot] map download: spa 4375310 bytes
+[boot] map compound let go
+[boot] map installed: compound
+[boot] map haruna let go
+[boot] map installed: haruna
+[boot] map iroha let go
+[boot] map installed: iroha
+[boot] map iroha_autumn let go
+[boot] map installed: iroha_autumn
+[boot] map mcr let go
+[boot] map installed: mcr
+[boot] map spa let go
+[boot] map installed: spa
+[smoke]  90.6s map library: downloads | grid/civic cam 0 | pos 27.6 0.50 -94.4 | 74 km/h 5948 rpm gear 2 | 3 fps 169 draws 49815 tris
+[smoke] screenshot /home/runner/work/Rust-bucket-racing-/Rust-bucket-racing-/out/shots/49-maps-downloading.jpg
+[smoke]  91.7s map library: downloads | grid/civic cam 0 | pos 27.6 0.50 -94.4 | 74 km/h 5948 rpm gear 2 | 3 fps 168 draws 49803 tris
+[smoke] Motorsport Compound: downloaded and installed in 2 s
+[smoke] Mt. Haruna: downloaded and installed in 2 s
+[smoke] Irohazaka: downloaded and installed in 2 s
+[smoke] Irohazaka Autumn: downloaded and installed in 2 s
+[smoke] Monte Carlo Rally: downloaded and installed in 2 s
+[smoke] Spa-Francorchamps: downloaded and installed in 2 s
+[smoke] screenshot /home/runner/work/Rust-bucket-racing-/Rust-bucket-racing-/out/shots/50-maps-installed.jpg
+[smoke] screenshot /home/runner/work/Rust-bucket-racing-/Rust-bucket-racing-/out/shots/51-free-roam-all-maps.jpg
+[smoke]  92.8s map library: downloads | grid/civic cam 0 | pos 27.6 0.50 -94.4 | 74 km/h 5948 rpm gear 2 | 3 fps 178 draws 46747 tris
+[boot] drive
+[smoke] maps on this phone: grid, iroha, iroha_autumn, mcr, compound, haruna, spa
+[boot] loading map spa
+[boot] map spa: 83 chunks, 0 draws with LODs, 0 occluders, 10340 wall segments, baked light (2652 ground pages)
+[boot] sky qwantani_afternoon_puresky: panorama x1.30, sun 1.44 at 41 deg, ambient grey 0.72
+[boot] map spa ready
+[smoke]  93.8s load Spa | spa/civic cam 0 | pos 496.1 58.26 -784.1 | -0 km/h 900 rpm gear 1 | 5 fps 369 draws 68539 tris
+[perf] 8 fps · worst 147 ms · 226 frames over 70 ms · gc 4 minor / 3 full · managed 52 MB · engine 96 MB · video 267 MB · 369 draws 68k tris · spa/civic · quality 1
+[smoke]  94.9s load Spa | spa/civic cam 0 | pos 496.1 58.26 -784.1 | 0 km/h 900 rpm gear 1 | 5 fps 369 draws 68535 tris
+[smoke] screenshot /home/runner/work/Rust-bucket-racing-/Rust-bucket-racing-/out/shots/52-spa-grid.jpg
+[smoke]  96.0s spa: drive | spa/civic cam 0 | pos 496.1 58.27 -784.3 | 4 km/h 2679 rpm gear 1 | 5 fps 370 draws 68299 tris
+[smoke]  97.0s spa: drive | spa/civic cam 0 | pos 496.1 58.36 -786.7 | 17 km/h 4165 rpm gear 1 | 6 fps 370 draws 68307 tris
+[smoke]  98.1s spa: drive | spa/civic cam 0 | pos 496.2 58.57 -791.9 | 30 km/h 4736 rpm gear 1 | 5 fps 373 draws 68335 tris
+[smoke]  99.2s spa: drive | spa/civic cam 0 | pos 496.2 58.88 -800.0 | 43 km/h 5672 rpm gear 1 | 5 fps 371 draws 68282 tris
+[smoke] 100.2s spa: drive | spa/civic cam 0 | pos 496.3 59.30 -810.9 | 55 km/h 7498 rpm gear 1 | 5 fps 341 draws 65054 tris
+[smoke] 101.3s spa: drive | spa/civic cam 0 | pos 496.4 59.79 -824.5 | 65 km/h 5426 rpm gear 2 | 5 fps 310 draws 62803 tris
+[smoke] screenshot /home/runner/work/Rust-bucket-racing-/Rust-bucket-racing-/out/shots/53-spa-chase.jpg
+[smoke] 102.4s spa: ABS stop | spa/civic cam 0 | pos 496.6 60.28 -839.6 | 69 km/h 5241 rpm gear 2 | 5 fps 316 draws 63016 tris
+[smoke] 103.4s spa: ABS stop | spa/civic cam 0 | pos 496.2 60.60 -851.4 | 38 km/h 4254 rpm gear 1 | 5 fps 299 draws 61422 tris
+[smoke] ABS stop: 71 -> 23 km/h in 1.2 s, ABS active 13/13 frames, a wheel locked 0/13
+[smoke] 104.5s spa: auto hold | spa/civic cam 0 | pos 495.5 60.73 -856.4 | 7 km/h 856 rpm gear 1 | 5 fps 313 draws 62840 tris
+[smoke] 105.6s spa: auto hold | spa/civic cam 0 | pos 495.4 60.74 -856.6 | 0 km/h 900 rpm gear 1 | 5 fps 306 draws 62608 tris
+[smoke] 106.6s spa: auto hold | spa/civic cam 0 | pos 495.4 60.74 -856.6 | -0 km/h 900 rpm gear 1 | 6 fps 306 draws 62608 tris
+[smoke] 107.7s spa: auto hold | spa/civic cam 0 | pos 495.4 60.74 -856.6 | -0 km/h 900 rpm gear 1 | 5 fps 306 draws 62608 tris
+[smoke] auto hold: moved 0.008 m in 2 s with no pedals
+[smoke] 108.8s spa: auto hold | spa/civic cam 0 | pos 495.4 60.74 -856.7 | 4 km/h 2908 rpm gear 1 | 6 fps 309 draws 62760 tris
+[smoke] 109.8s spa: auto hold | spa/civic cam 0 | pos 495.0 60.79 -858.8 | 16 km/h 4098 rpm gear 1 | 5 fps 309 draws 62762 tris
+[smoke] 110.9s spa: auto hold | spa/civic cam 0 | pos 494.1 60.91 -863.8 | 30 km/h 4687 rpm gear 1 | 6 fps 309 draws 62762 tris
+[smoke] 112.0s spa: auto hold | spa/civic cam 0 | pos 492.6 61.10 -871.8 | 43 km/h 5669 rpm gear 1 | 6 fps 305 draws 62840 tris
+[smoke] 113.0s spa: auto hold | spa/civic cam 4 | pos 490.7 61.36 -882.2 | 49 km/h 3954 rpm gear 2 | 5 fps 291 draws 56473 tris
+[smoke] screenshot /home/runner/work/Rust-bucket-racing-/Rust-bucket-racing-/out/shots/54-spa-interior.jpg
+[smoke] 114.1s spa: auto hold | spa/civic cam 3 | pos 488.7 61.66 -892.9 | 51 km/h 4269 rpm gear 2 | 3 fps 393 draws 71907 tris
+[smoke] screenshot /home/runner/work/Rust-bucket-racing-/Rust-bucket-racing-/out/shots/55-spa-trackside.jpg
+[smoke] 115.2s spa: auto hold | spa/civic cam 1 | pos 486.6 62.00 -904.6 | 52 km/h 4324 rpm gear 2 | 5 fps 299 draws 62647 tris
+[smoke] screenshot /home/runner/work/Rust-bucket-racing-/Rust-bucket-racing-/out/shots/56-spa-orbit.jpg
+[boot] loading car rust
+[smoke] 116.2s spa: rust bucket | spa/rust cam 0 | pos 486.5 62.18 -911.5 | -0 km/h 800 rpm gear 1 | 4 fps 245 draws 26064 tris
+[smoke] 117.3s spa: rust bucket | spa/rust cam 0 | pos 486.5 62.21 -912.4 | 11 km/h 3363 rpm gear 1 | 5 fps 248 draws 26218 tris
+[smoke] 118.4s spa: rust bucket | spa/rust cam 0 | pos 486.5 62.34 -916.2 | 23 km/h 3400 rpm gear 1 | 5 fps 246 draws 25858 tris
+[smoke] screenshot /home/runner/work/Rust-bucket-racing-/Rust-bucket-racing-/out/shots/57-spa-rust.jpg
+[smoke] 119.4s spa: resets | spa/rust cam 0 | pos 486.6 62.55 -920.6 | 0 km/h 853 rpm gear 1 | 5 fps 245 draws 26042 tris
+[boot] loading map mcr
+[boot] map mcr: 164 chunks, 144 draws with LODs, 160 occluders, 62808 wall segments, baked light (2500 ground pages)
+[boot] sky qwantani_noon_puresky: panorama x1.30, sun 1.23 at 50 deg, ambient grey 0.73
+[boot] map mcr ready
+[smoke] 120.5s load Monte Carlo | mcr/rust cam 0 | pos 839.7 56.68 -1567.2 | 0 km/h 800 rpm gear 1 | 6 fps 316 draws 31956 tris
+[smoke] Monte Carlo: 144 draws with LODs, 160 occluders, occlusion culling True, far 14000 m
+[smoke] 121.6s mcr: uphill start | mcr/rust cam 0 | pos 839.7 56.67 -1567.2 | 0 km/h 800 rpm gear 1 | 3 fps 350 draws 262351 tris
+[smoke] screenshot /home/runner/work/Rust-bucket-racing-/Rust-bucket-racing-/out/shots/58-mcr-start-uphill.jpg
+[smoke] 122.6s mcr: uphill start | mcr/rust cam 0 | pos 839.7 56.68 -1567.1 | 4 km/h 2867 rpm gear 1 | 3 fps 265 draws 200610 tris
+[smoke] 123.7s mcr: uphill start | mcr/rust cam 0 | pos 840.4 56.75 -1564.9 | 17 km/h 3398 rpm gear 1 | 3 fps 266 draws 200529 tris
+[perf] 7 fps · worst 150 ms · 226 frames over 70 ms · gc 5 minor / 1 full · managed 118 MB · engine 171 MB · video 354 MB · 269 draws 209k tris · mcr/rust · quality 1
+[smoke] 124.8s mcr: uphill start | mcr/rust cam 0 | pos 842.0 56.91 -1560.1 | 27 km/h 3902 rpm gear 1 | 3 fps 269 draws 209603 tris
+[smoke] 125.8s mcr: uphill start | mcr/rust cam 0 | pos 844.1 57.11 -1553.4 | 36 km/h 5145 rpm gear 1 | 3 fps 276 draws 209754 tris
+[smoke] 126.9s mcr: uphill start | mcr/rust cam 0 | pos 846.8 57.36 -1544.9 | 44 km/h 6256 rpm gear 1 | 3 fps 279 draws 223934 tris
+[smoke] uphill start: 45 km/h, stage clock running 1.1 s
+[smoke] screenshot /home/runner/work/Rust-bucket-racing-/Rust-bucket-racing-/out/shots/59-mcr-uphill-chase.jpg
+[smoke] view at s=700: 4 fps, 1695 objects, 269 draws, 207k tris, car at 68.8 m (road 68.4)
+[smoke] screenshot /home/runner/work/Rust-bucket-racing-/Rust-bucket-racing-/out/shots/60-mcr-road-700.jpg
+[smoke] 128.0s mcr: view at 1600 m | mcr/rust cam 0 | pos 843.8 112.13 -534.8 | 4 km/h 800 rpm gear 1 | 4 fps 269 draws 207440 tris
+[smoke] view at s=1600: 3 fps, 1652 objects, 226 draws, 138k tris, car at 112.2 m (road 111.7)
+[smoke] screenshot /home/runner/work/Rust-bucket-racing-/Rust-bucket-racing-/out/shots/61-mcr-road-1600.jpg
+[smoke] 129.0s mcr: view at 2500 m | mcr/rust cam 0 | pos 838.4 193.44 226.2 | -0 km/h 1457 rpm gear 1 | 2 fps 194 draws 104689 tris
+[smoke] view at s=2500: 3 fps, 1619 objects, 193 draws, 104k tris, car at 193.4 m (road 192.9)
+[smoke] screenshot /home/runner/work/Rust-bucket-racing-/Rust-bucket-racing-/out/shots/62-mcr-road-2500.jpg
+[smoke] 130.1s mcr: view at 3400 m | mcr/rust cam 0 | pos 650.3 246.77 698.1 | 2 km/h 1699 rpm gear 1 | 3 fps 227 draws 169426 tris
+[smoke] view at s=3400: 2 fps, 1653 objects, 227 draws, 169k tris, car at 246.7 m (road 246.3)
+[smoke] screenshot /home/runner/work/Rust-bucket-racing-/Rust-bucket-racing-/out/shots/63-mcr-road-3400.jpg
+[smoke] 131.2s mcr: view at 4300 m | mcr/rust cam 0 | pos 34.7 296.82 968.4 | 2 km/h 1788 rpm gear 1 | 2 fps 233 draws 141274 tris
+[smoke] view at s=4300: 3 fps, 1662 objects, 236 draws, 141k tris, car at 296.8 m (road 296.3)
+[smoke] screenshot /home/runner/work/Rust-bucket-racing-/Rust-bucket-racing-/out/shots/64-mcr-road-4300.jpg
+[smoke] 132.2s mcr: view at 5200 m | mcr/rust cam 0 | pos -532.1 320.24 1540.1 | 3 km/h 1821 rpm gear 1 | 3 fps 190 draws 99114 tris
+[smoke] view at s=5200: 3 fps, 1616 objects, 190 draws, 99k tris, car at 320.2 m (road 319.8)
+[smoke] screenshot /home/runner/work/Rust-bucket-racing-/Rust-bucket-racing-/out/shots/65-mcr-road-5200.jpg
+[smoke] 133.3s mcr: guardrail at 1932 m | mcr/rust cam 0 | pos 865.1 144.59 -227.9 | 89 km/h 5069 rpm gear 3 | 3 fps 202 draws 102587 tris
+[smoke] guardrail at 1932 m, 15 deg, 100 km/h: 84 km/h a second later (84 %), lowest hull points reached D -3.14 (rail face about -3.10), car centre -2.24, 1 impact sounds
+[smoke] screenshot /home/runner/work/Rust-bucket-racing-/Rust-bucket-racing-/out/shots/66-mcr-guardrail-1932.jpg
+[smoke] 134.4s mcr: guardrail at 1050 m | mcr/rust cam 0 | pos 885.3 75.47 -929.0 | 84 km/h 800 rpm gear 1 | 3 fps 207 draws 130479 tris
+[smoke] 135.4s mcr: guardrail at 1050 m | mcr/rust cam 0 | pos 896.4 76.07 -912.3 | 87 km/h 4365 rpm gear 3 | 5 fps 211 draws 113158 tris
+[smoke] guardrail at 1050 m, 15 deg, 100 km/h: 83 km/h a second later (83 %), lowest hull points reached D -3.56 (rail face about -3.45), car centre -2.72, 1 impact sounds
+[smoke] screenshot /home/runner/work/Rust-bucket-racing-/Rust-bucket-racing-/out/shots/67-mcr-guardrail-1050.jpg
+[smoke] 136.5s mcr: downhill start | mcr/rust cam 0 | pos -516.4 319.95 1512.6 | 0 km/h 800 rpm gear 1 | 4 fps 346 draws 294878 tris
+[smoke] screenshot /home/runner/work/Rust-bucket-racing-/Rust-bucket-racing-/out/shots/68-mcr-start-downhill.jpg
+[smoke] 137.6s mcr: downhill start | mcr/rust cam 0 | pos -516.4 319.95 1512.5 | 1 km/h 1540 rpm gear 1 | 3 fps 312 draws 262029 tris
+[smoke] 138.6s mcr: downhill start | mcr/rust cam 0 | pos -515.6 319.93 1511.2 | 12 km/h 2880 rpm gear 1 | 3 fps 311 draws 261747 tris
+[smoke] 139.7s mcr: downhill start | mcr/rust cam 0 | pos -513.7 319.90 1507.9 | 21 km/h 3021 rpm gear 1 | 4 fps 313 draws 262681 tris
+[smoke] 140.8s mcr: downhill start | mcr/rust cam 0 | pos -510.9 319.84 1503.1 | 29 km/h 4069 rpm gear 1 | 3 fps 314 draws 258454 tris
+[smoke] downhill start: 34 km/h, stage clock running
+[smoke] 141.8s mcr: end 0 of the road | mcr/rust cam 0 | pos 644.2 43.52 -1678.9 | -0 km/h 800 rpm gear 1 | 3 fps 201 draws 71156 tris
+[smoke] reset at end 0 of the road: faces back along it
+[smoke] screenshot /home/runner/work/Rust-bucket-racing-/Rust-bucket-racing-/out/shots/69-mcr-road-end-0.jpg
+[smoke] reset at end 1 of the road: faces back along it
+[smoke] screenshot /home/runner/work/Rust-bucket-racing-/Rust-bucket-racing-/out/shots/70-mcr-road-end-1.jpg
+[smoke] 142.9s mcr: end 1 of the road | mcr/rust cam 1 | pos -899.8 323.45 1654.3 | -0 km/h 800 rpm gear 1 | 4 fps 141 draws 20287 tris
+[smoke] screenshot /home/runner/work/Rust-bucket-racing-/Rust-bucket-racing-/out/shots/71-mcr-orbit.jpg
+[boot] loading map iroha
+[smoke] 144.0s load Irohazaka | mcr/rust cam 0 | pos -899.8 323.45 1654.3 | -0 km/h 800 rpm gear 1 | 6 fps 341 draws 244297 tris
+[boot] map iroha: 38 chunks, 49 draws with LODs, 16 occluders, 6258 wall segments, baked light (1122 ground pages)
+[boot] sky kloofendal_43d_clear_puresky: panorama x0.93, sun 1.38 at 43 deg, ambient grey 0.64
+[boot] map iroha ready
+[smoke] Irohazaka: 49 draws with LODs, 16 occluders, occlusion culling True, far 6000 m, 4867 m of road, stage 146-4729 m, 6258 wall segments
+[smoke] 145.0s iroha: downhill start | iroha/rust cam 0 | pos -598.1 -2.71 -423.7 | 0 km/h 800 rpm gear 1 | 2 fps 268 draws 270636 tris
+[smoke] screenshot /home/runner/work/Rust-bucket-racing-/Rust-bucket-racing-/out/shots/72-iroha-start-downhill.jpg
+[smoke] 146.1s iroha: downhill start | iroha/rust cam 0 | pos -598.1 -2.71 -423.7 | 1 km/h 1540 rpm gear 1 | 3 fps 241 draws 212683 tris
+[smoke] 147.2s iroha: downhill start | iroha/rust cam 0 | pos -596.7 -2.73 -424.2 | 13 km/h 2880 rpm gear 1 | 3 fps 240 draws 210995 tris
+[smoke] 148.2s iroha: downhill start | iroha/rust cam 0 | pos -593.0 -2.79 -425.3 | 22 km/h 3047 rpm gear 1 | 3 fps 249 draws 219922 tris
+[smoke] 149.3s iroha: downhill start | iroha/rust cam 0 | pos -587.6 -2.86 -427.0 | 29 km/h 4109 rpm gear 1 | 3 fps 259 draws 242569 tris
+[smoke] 150.4s iroha: downhill start | iroha/rust cam 0 | pos -580.7 -2.97 -429.2 | 37 km/h 5190 rpm gear 1 | 2 fps 268 draws 263818 tris
+[smoke] Irohazaka downhill start: 44 km/h, stage clock running 1.4 s
+[smoke] screenshot /home/runner/work/Rust-bucket-racing-/Rust-bucket-racing-/out/shots/73-iroha-downhill-chase.jpg
+[smoke] 151.4s iroha: view at 300 m | iroha/rust cam 0 | pos 663.9 -338.42 273.8 | 44 km/h 800 rpm gear 1 | 3 fps 274 draws 270747 tris
+[smoke] iroha view at s=300: 3 fps, 1707 objects, 281 draws, 257k tris, car at -338.4 m (road -338.9)
+[smoke] screenshot /home/runner/work/Rust-bucket-racing-/Rust-bucket-racing-/out/shots/74-iroha-road-300.jpg
+[smoke] 152.5s iroha: view at 1000 m | iroha/rust cam 0 | pos 439.5 -288.83 40.8 | -0 km/h 1457 rpm gear 1 | 3 fps 253 draws 232012 tris
+[smoke] iroha view at s=1000: 3 fps, 1679 objects, 253 draws, 232k tris, car at -288.8 m (road -289.3)
+[smoke] screenshot /home/runner/work/Rust-bucket-racing-/Rust-bucket-racing-/out/shots/75-iroha-road-1000.jpg
+[smoke] 153.6s iroha: view at 1700 m | iroha/rust cam 0 | pos 428.8 -223.55 -287.8 | 1 km/h 1699 rpm gear 1 | 2 fps 254 draws 240778 tris
+[smoke] iroha view at s=1700: 3 fps, 1680 objects, 254 draws, 240k tris, car at -223.5 m (road -224.0)
+[smoke] screenshot /home/runner/work/Rust-bucket-racing-/Rust-bucket-racing-/out/shots/76-iroha-road-1700.jpg
+[perf] 7 fps · worst 150 ms · 225 frames over 70 ms · gc 4 minor / 1 full · managed 137 MB · engine 216 MB · video 435 MB · 254 draws 240k tris · iroha/rust · quality 1
+[smoke] 154.6s iroha: view at 2400 m | iroha/rust cam 0 | pos 308.6 -164.19 -392.0 | 1 km/h 1788 rpm gear 1 | 4 fps 231 draws 199662 tris
+[smoke] iroha view at s=2400: 3 fps, 1657 objects, 231 draws, 199k tris, car at -164.2 m (road -164.7)
+[smoke] screenshot /home/runner/work/Rust-bucket-racing-/Rust-bucket-racing-/out/shots/77-iroha-road-2400.jpg
+[smoke] 155.7s iroha: view at 3100 m | iroha/rust cam 0 | pos 375.3 -124.68 -471.5 | 3 km/h 1821 rpm gear 1 | 3 fps 236 draws 206195 tris
+[smoke] iroha view at s=3100: 3 fps, 1662 objects, 236 draws, 206k tris, car at -124.7 m (road -125.1)
+[smoke] screenshot /home/runner/work/Rust-bucket-racing-/Rust-bucket-racing-/out/shots/78-iroha-road-3100.jpg
+[smoke] 156.8s iroha: view at 3800 m | iroha/rust cam 0 | pos -18.9 -57.02 -504.4 | 2 km/h 1838 rpm gear 1 | 3 fps 188 draws 115467 tris
+[smoke] iroha view at s=3800: 3 fps, 1613 objects, 188 draws, 115k tris, car at -57.0 m (road -57.5)
+[smoke] screenshot /home/runner/work/Rust-bucket-racing-/Rust-bucket-racing-/out/shots/79-iroha-road-3800.jpg
+[smoke] 157.8s iroha: view at 4500 m | iroha/rust cam 0 | pos -365.8 -6.12 -486.1 | 4 km/h 1837 rpm gear 1 | 3 fps 187 draws 101534 tris
+[smoke] iroha view at s=4500: 3 fps, 1612 objects, 187 draws, 101k tris, car at -6.1 m (road -6.6)
+[smoke] screenshot /home/runner/work/Rust-bucket-racing-/Rust-bucket-racing-/out/shots/80-iroha-road-4500.jpg
+[smoke] 158.9s iroha: uphill start | iroha/rust cam 0 | pos 687.5 -342.00 434.1 | 0 km/h 800 rpm gear 1 | 2 fps 283 draws 272376 tris
+[smoke] screenshot /home/runner/work/Rust-bucket-racing-/Rust-bucket-racing-/out/shots/81-iroha-start-uphill.jpg
+[smoke] 160.0s iroha: uphill start | iroha/rust cam 0 | pos 687.5 -341.99 433.6 | 8 km/h 3291 rpm gear 1 | 2 fps 284 draws 272088 tris
+[smoke] 161.0s iroha: uphill start | iroha/rust cam 0 | pos 687.5 -341.94 430.4 | 21 km/h 3400 rpm gear 1 | 3 fps 285 draws 273266 tris
+[smoke] 162.1s iroha: uphill start | iroha/rust cam 0 | pos 687.5 -341.87 424.7 | 30 km/h 4344 rpm gear 1 | 3 fps 286 draws 273344 tris
+[smoke] 163.2s iroha: uphill start | iroha/rust cam 0 | pos 687.5 -341.83 416.9 | 39 km/h 5594 rpm gear 1 | 3 fps 289 draws 273578 tris
+[smoke] 164.2s iroha: uphill start | iroha/rust cam 0 | pos 687.5 -341.81 407.3 | 47 km/h 6472 rpm gear 1 | 3 fps 290 draws 273642 tris
+[smoke] Irohazaka uphill start: 49 km/h, stage clock running
+[smoke] 165.3s iroha: uphill start | iroha/rust cam 1 | pos 687.5 -341.81 396.6 | 48 km/h 3781 rpm gear 2 | 3 fps 280 draws 267132 tris
+[smoke] screenshot /home/runner/work/Rust-bucket-racing-/Rust-bucket-racing-/out/shots/82-iroha-orbit.jpg
+[boot] loading map haruna
+[boot] map haruna: 176 chunks, 219 draws with LODs, 86 occluders, 10269 wall segments, baked light (2450 ground pages)
+[boot] sky kloofendal_48d_partly_cloudy_puresky: panorama x0.87, sun 1.24 at 48 deg, ambient grey 0.65
+[boot] map haruna ready
+[smoke] 166.4s load Mt. Haruna | haruna/rust cam 0 | pos 794.0 721.50 -578.5 | 46 km/h 800 rpm gear 1 | 3 fps 285 draws 273401 tris
+[smoke] Mt. Haruna: 219 draws with LODs, 86 occluders, occlusion culling True, far 16000 m, 8075 m of road, stage 204-7783 m, 10269 wall segments
+[smoke] 167.4s haruna: downhill start | haruna/rust cam 0 | pos -803.4 1170.50 992.8 | -0 km/h 800 rpm gear 1 | 2 fps 411 draws 394419 tris
+[smoke] screenshot /home/runner/work/Rust-bucket-racing-/Rust-bucket-racing-/out/shots/83-haruna-start-downhill.jpg
+[smoke] 168.5s haruna: downhill start | haruna/rust cam 0 | pos -803.3 1170.50 992.7 | 4 km/h 2699 rpm gear 1 | 2 fps 346 draws 316426 tris
+[smoke] 169.6s haruna: downhill start | haruna/rust cam 0 | pos -802.5 1170.48 990.7 | 15 km/h 2880 rpm gear 1 | 2 fps 344 draws 316112 tris
+[smoke] 170.6s haruna: downhill start | haruna/rust cam 0 | pos -801.0 1170.41 986.6 | 23 km/h 3297 rpm gear 1 | 2 fps 341 draws 307112 tris
+[smoke] 171.7s haruna: downhill start | haruna/rust cam 0 | pos -798.9 1170.32 981.0 | 31 km/h 4362 rpm gear 1 | 2 fps 385 draws 372384 tris
+[smoke] 172.8s haruna: downhill start | haruna/rust cam 0 | pos -796.1 1170.18 973.8 | 39 km/h 5459 rpm gear 1 | 2 fps 391 draws 383297 tris
+[smoke] Mt. Haruna downhill start: 44 km/h, stage clock running 1.4 s
+[smoke] screenshot /home/runner/work/Rust-bucket-racing-/Rust-bucket-racing-/out/shots/84-haruna-downhill-chase.jpg
+[smoke] 173.8s haruna: view at 300 m | haruna/rust cam 0 | pos 760.1 727.54 -679.9 | 1 km/h 1699 rpm gear 1 | 2 fps 231 draws 158445 tris
+[smoke] haruna view at s=300: 3 fps, 1658 objects, 232 draws, 158k tris, car at 727.6 m (road 727.1)
+[smoke] screenshot /home/runner/work/Rust-bucket-racing-/Rust-bucket-racing-/out/shots/85-haruna-road-300.jpg
+[smoke] 174.9s haruna: view at 4300 m | haruna/rust cam 0 | pos -479.6 974.41 -99.2 | 2 km/h 1788 rpm gear 1 | 2 fps 438 draws 338151 tris
+[smoke] haruna view at s=4300: 2 fps, 1864 objects, 438 draws, 338k tris, car at 974.4 m (road 974.0)
+[smoke] screenshot /home/runner/work/Rust-bucket-racing-/Rust-bucket-racing-/out/shots/86-haruna-road-4300.jpg
+[smoke] 176.0s haruna: the top end | haruna/rust cam 5 | pos -814.8 1170.69 1034.2 | 0 km/h 800 rpm gear 1 | 2 fps 409 draws 414286 tris
+[smoke] screenshot /home/runner/work/Rust-bucket-racing-/Rust-bucket-racing-/out/shots/87-haruna-top-end-0.jpg
+[smoke] 177.0s haruna: the top end | haruna/rust cam 5 | pos -814.8 1170.70 1034.2 | 0 km/h 800 rpm gear 1 | 3 fps 68 draws 60548 tris
+[smoke] screenshot /home/runner/work/Rust-bucket-racing-/Rust-bucket-racing-/out/shots/88-haruna-top-end-90.jpg
+[smoke] 178.1s haruna: the top end | haruna/rust cam 5 | pos -814.8 1170.70 1034.2 | 0 km/h 800 rpm gear 1 | 3 fps 69 draws 79733 tris
+[smoke] screenshot /home/runner/work/Rust-bucket-racing-/Rust-bucket-racing-/out/shots/89-haruna-top-end-180.jpg
+[smoke] screenshot /home/runner/work/Rust-bucket-racing-/Rust-bucket-racing-/out/shots/90-haruna-top-end-270.jpg
+[smoke] 179.2s haruna: the top end | haruna/rust cam 0 | pos -814.8 1170.70 1034.2 | -0 km/h 800 rpm gear 1 | 3 fps 86 draws 129217 tris
+[smoke] 180.2s haruna: the bottom end | haruna/rust cam 5 | pos 782.7 721.99 -595.0 | 0 km/h 800 rpm gear 1 | 2 fps 122 draws 170749 tris
+[smoke] screenshot /home/runner/work/Rust-bucket-racing-/Rust-bucket-racing-/out/shots/91-haruna-bottom-end-0.jpg
+[smoke] 181.3s haruna: the bottom end | haruna/rust cam 5 | pos 782.7 721.99 -595.0 | -0 km/h 800 rpm gear 1 | 2 fps 97 draws 142392 tris
+[smoke] screenshot /home/runner/work/Rust-bucket-racing-/Rust-bucket-racing-/out/shots/92-haruna-bottom-end-90.jpg
+[smoke] screenshot /home/runner/work/Rust-bucket-racing-/Rust-bucket-racing-/out/shots/93-haruna-bottom-end-180.jpg
+[smoke] 182.4s haruna: the bottom end | haruna/rust cam 5 | pos 782.7 721.99 -594.9 | -0 km/h 800 rpm gear 1 | 2 fps 98 draws 145325 tris
+[smoke] screenshot /home/runner/work/Rust-bucket-racing-/Rust-bucket-racing-/out/shots/94-haruna-bottom-end-270.jpg
+[smoke] 183.4s haruna: uphill start | haruna/rust cam 0 | pos 794.0 721.50 -578.5 | -0 km/h 800 rpm gear 1 | 2 fps 229 draws 189731 tris
+[perf] 7 fps · worst 150 ms · 225 frames over 70 ms · gc 10 minor / 1 full · managed 215 MB · engine 319 MB · video 590 MB · 244 draws 207k tris · haruna/rust · quality 1
+[smoke] 184.5s haruna: uphill start | haruna/rust cam 0 | pos 794.0 721.51 -578.5 | -0 km/h 800 rpm gear 1 | 2 fps 244 draws 207559 tris
+[smoke] screenshot /home/runner/work/Rust-bucket-racing-/Rust-bucket-racing-/out/shots/95-haruna-start-uphill.jpg
+[smoke] 185.6s haruna: uphill start | haruna/rust cam 0 | pos 793.5 721.52 -579.0 | 9 km/h 3302 rpm gear 1 | 2 fps 239 draws 206651 tris
+[smoke] 186.6s haruna: uphill start | haruna/rust cam 0 | pos 790.9 721.61 -581.4 | 22 km/h 3400 rpm gear 1 | 2 fps 240 draws 207512 tris
+[smoke] 187.7s haruna: uphill start | haruna/rust cam 0 | pos 786.6 721.76 -585.5 | 31 km/h 4427 rpm gear 1 | 2 fps 237 draws 205039 tris
+[smoke] 188.8s haruna: uphill start | haruna/rust cam 0 | pos 781.1 722.39 -590.9 | 34 km/h 6482 rpm gear 1 | 2 fps 234 draws 204417 tris
+[smoke] 189.8s haruna: uphill start | haruna/rust cam 0 | pos 777.0 722.48 -598.1 | 38 km/h 6299 rpm gear 1 | 2 fps 245 draws 195427 tris
+[smoke] Mt. Haruna uphill start: 40 km/h, stage clock running
+[boot] loading map iroha_autumn
+[boot] map iroha_autumn: 201 chunks, 175 draws with LODs, 105 occluders, 8445 wall segments, baked light (1444 ground pages)
+[boot] sky qwantani_afternoon_puresky: panorama x1.30, sun 1.44 at 41 deg, ambient grey 0.72
+[boot] map iroha_autumn ready
+[smoke] 190.9s load Irohazaka Autumn | iroha_autumn/rust cam 0 | pos 1578.6 818.40 316.9 | -0 km/h 800 rpm gear 1 | 1 fps 262 draws 250961 tris
+[smoke] Irohazaka Autumn: 175 draws with LODs, 105 occluders, occlusion culling True, far 16000 m, 7094 m of road, stage 45-7051 m, 8445 wall segments
+[smoke] 192.0s iroha_autumn: downhill start | iroha_autumn/rust cam 0 | pos -1312.5 1276.58 228.2 | 0 km/h 800 rpm gear 1 | 2 fps 308 draws 340562 tris
+[smoke] screenshot /home/runner/work/Rust-bucket-racing-/Rust-bucket-racing-/out/shots/96-iroha_autumn-start-downhill.jpg
+[smoke] 193.0s iroha_autumn: downhill start | iroha_autumn/rust cam 0 | pos -1312.3 1276.58 228.0 | 5 km/h 2813 rpm gear 1 | 2 fps 301 draws 322852 tris
+[smoke] 194.1s iroha_autumn: downhill start | iroha_autumn/rust cam 0 | pos -1311.1 1276.64 226.1 | 15 km/h 2880 rpm gear 1 | 2 fps 280 draws 276897 tris
+[smoke] 195.2s iroha_autumn: downhill start | iroha_autumn/rust cam 0 | pos -1308.7 1276.74 222.6 | 23 km/h 3202 rpm gear 1 | 2 fps 299 draws 314384 tris
+[smoke] 196.2s iroha_autumn: downhill start | iroha_autumn/rust cam 0 | pos -1305.5 1276.88 217.8 | 29 km/h 4166 rpm gear 1 | 2 fps 296 draws 308161 tris
+[smoke] 197.3s iroha_autumn: downhill start | iroha_autumn/rust cam 0 | pos -1301.4 1277.06 211.7 | 36 km/h 5131 rpm gear 1 | 2 fps 286 draws 285035 tris
+[smoke] Irohazaka Autumn downhill start: 40 km/h, stage clock running 1.3 s
+[smoke] screenshot /home/runner/work/Rust-bucket-racing-/Rust-bucket-racing-/out/shots/97-iroha_autumn-downhill-chase.jpg
+[smoke] 198.4s iroha_autumn: view at 300 m | iroha_autumn/rust cam 0 | pos 1312.1 828.32 326.0 | 2 km/h 1788 rpm gear 1 | 2 fps 207 draws 168052 tris
+[smoke] iroha_autumn view at s=300: 2 fps, 1633 objects, 207 draws, 168k tris, car at 828.3 m (road 827.9)
+[smoke] screenshot /home/runner/work/Rust-bucket-racing-/Rust-bucket-racing-/out/shots/98-iroha_autumn-road-300.jpg
+[smoke] 199.4s iroha_autumn: view at 4300 m | iroha_autumn/rust cam 0 | pos -580.5 1133.55 -406.4 | 3 km/h 1821 rpm gear 1 | 3 fps 373 draws 400734 tris
+[smoke] iroha_autumn view at s=4300: 2 fps, 1801 objects, 375 draws, 400k tris, car at 1133.5 m (road 1133.1)
+[smoke] screenshot /home/runner/work/Rust-bucket-racing-/Rust-bucket-racing-/out/shots/99-iroha_autumn-road-4300.jpg
+[smoke] 200.5s iroha_autumn: the bottom end | iroha_autumn/rust cam 5 | pos 1558.7 818.89 317.5 | 0 km/h 800 rpm gear 1 | 2 fps 67 draws 148247 tris
+[smoke] screenshot /home/runner/work/Rust-bucket-racing-/Rust-bucket-racing-/out/shots/100-iroha_autumn-bottom-end-0.jpg
+[smoke] 201.6s iroha_autumn: the bottom end | iroha_autumn/rust cam 5 | pos 1558.7 818.90 317.5 | -0 km/h 800 rpm gear 1 | 2 fps 143 draws 246151 tris
+[smoke] screenshot /home/runner/work/Rust-bucket-racing-/Rust-bucket-racing-/out/shots/101-iroha_autumn-bottom-end-90.jpg
+[smoke] 202.6s iroha_autumn: the bottom end | iroha_autumn/rust cam 5 | pos 1558.7 818.90 317.5 | -0 km/h 800 rpm gear 1 | 3 fps 92 draws 149219 tris
+[smoke] screenshot /home/runner/work/Rust-bucket-racing-/Rust-bucket-racing-/out/shots/102-iroha_autumn-bottom-end-180.jpg
+[smoke] screenshot /home/runner/work/Rust-bucket-racing-/Rust-bucket-racing-/out/shots/103-iroha_autumn-bottom-end-270.jpg
+[smoke] 203.7s iroha_autumn: the bottom end | iroha_autumn/rust cam 0 | pos 1558.7 818.90 317.5 | -0 km/h 800 rpm gear 1 | 3 fps 235 draws 231714 tris
+[smoke] 204.8s iroha_autumn: uphill start | iroha_autumn/rust cam 0 | pos 1578.7 818.38 316.9 | 0 km/h 800 rpm gear 1 | 3 fps 261 draws 272222 tris
+[smoke] screenshot /home/runner/work/Rust-bucket-racing-/Rust-bucket-racing-/out/shots/104-iroha_autumn-start-uphill.jpg
+[smoke] 205.8s iroha_autumn: uphill start | iroha_autumn/rust cam 0 | pos 1578.2 818.39 316.9 | 7 km/h 3277 rpm gear 1 | 2 fps 261 draws 271783 tris
+[smoke] 206.9s iroha_autumn: uphill start | iroha_autumn/rust cam 0 | pos 1575.1 818.49 317.0 | 20 km/h 3400 rpm gear 1 | 2 fps 263 draws 271984 tris
+[smoke] 208.0s iroha_autumn: uphill start | iroha_autumn/rust cam 0 | pos 1569.5 818.63 317.2 | 30 km/h 4252 rpm gear 1 | 2 fps 263 draws 274854 tris
+[smoke] 209.0s iroha_autumn: uphill start | iroha_autumn/rust cam 0 | pos 1561.9 818.82 317.4 | 38 km/h 5472 rpm gear 1 | 2 fps 257 draws 274553 tris
+[smoke] 210.1s iroha_autumn: uphill start | iroha_autumn/rust cam 0 | pos 1552.5 819.03 317.7 | 46 km/h 6529 rpm gear 1 | 2 fps 252 draws 246801 tris
+[smoke] Irohazaka Autumn uphill start: 48 km/h, stage clock running
+[boot] loading map compound
+[boot] map compound: 206 chunks, 247 draws with LODs, 0 occluders, 16392 wall segments, baked light (3025 ground pages)
+[boot] sky sunflowers_puresky: panorama x0.95, sun 1.27 at 43 deg, ambient grey 0.69
+[boot] map compound ready
+[smoke] 211.2s load the compound | compound/rust cam 0 | pos 269.6 0.47 562.9 | 47 km/h 800 rpm gear 1 | 2 fps 258 draws 251670 tris
+[smoke] compound: loaded in 0.9 s, 206 chunks, 247 draws with LODs, 16392 wall segments, 9 courses, 20 roads, 6 pads, 7 start points, 87 cones, far 16000 m
+[smoke] 212.2s load the compound | compound/rust cam 0 | pos 269.6 0.47 562.9 | -0 km/h 800 rpm gear 1 | 4 fps 325 draws 282009 tris
+[smoke] screenshot /home/runner/work/Rust-bucket-racing-/Rust-bucket-racing-/out/shots/105-compound-grid.jpg
+[smoke] 213.3s compound: drive | compound/rust cam 0 | pos 269.4 0.47 562.9 | 4 km/h 2905 rpm gear 1 | 5 fps 326 draws 281773 tris
+[smoke] 214.4s compound: drive | compound/rust cam 0 | pos 266.9 0.48 562.9 | 18 km/h 3400 rpm gear 1 | 5 fps 330 draws 290201 tris
+[perf] 8 fps · worst 150 ms · 226 frames over 70 ms · gc 19 minor / 1 full · managed 488 MB · engine 372 MB · video 918 MB · 330 draws 290k tris · compound/rust · quality 1
+[smoke] 215.4s compound: drive | compound/rust cam 0 | pos 261.5 0.47 562.9 | 29 km/h 4154 rpm gear 1 | 5 fps 331 draws 300309 tris
+[smoke] 216.5s compound: drive | compound/rust cam 0 | pos 254.0 0.47 562.9 | 38 km/h 5458 rpm gear 1 | 4 fps 330 draws 286592 tris
+[smoke] 217.6s compound: drive | compound/rust cam 0 | pos 244.6 0.47 562.9 | 46 km/h 6580 rpm gear 1 | 5 fps 328 draws 261276 tris
+[smoke] 218.6s compound: drive | compound/rust cam 0 | pos 233.8 0.47 562.9 | 51 km/h 4151 rpm gear 2 | 5 fps 328 draws 252004 tris
+[smoke] screenshot /home/runner/work/Rust-bucket-racing-/Rust-bucket-racing-/out/shots/106-compound-chase.jpg
+[smoke] 219.7s compound: drive | compound/rust cam 3 | pos 221.7 0.47 562.9 | 57 km/h 4648 rpm gear 2 | 5 fps 328 draws 241880 tris
+[smoke] 220.8s compound: drive | compound/rust cam 3 | pos 208.8 0.47 562.9 | 60 km/h 4775 rpm gear 2 | 4 fps 211 draws 142223 tris
+[smoke] screenshot /home/runner/work/Rust-bucket-racing-/Rust-bucket-racing-/out/shots/107-compound-trackside.jpg
+[smoke] 221.8s compound: go to GP pit lane | compound/rust cam 0 | pos 811.5 0.47 582.0 | -0 km/h 800 rpm gear 1 | 4 fps 328 draws 311131 tris
+[smoke] compound: GP pit lane: car 0.1 m from the spot, 0.5 m up
+[smoke] screenshot /home/runner/work/Rust-bucket-racing-/Rust-bucket-racing-/out/shots/108-compound-gp-pit-lane.jpg
+[smoke] 222.9s compound: go to Oval | compound/rust cam 0 | pos -155.5 0.35 166.2 | -0 km/h 800 rpm gear 1 | 5 fps 311 draws 295007 tris
+[smoke] compound: Oval: car 0.1 m from the spot, 0.3 m up
+[smoke] screenshot /home/runner/work/Rust-bucket-racing-/Rust-bucket-racing-/out/shots/109-compound-oval.jpg
+[smoke] 224.0s compound: go to Endurance pits | compound/rust cam 0 | pos 388.8 11.86 3630.2 | -0 km/h 800 rpm gear 1 | 5 fps 259 draws 179739 tris
+[smoke] compound: Endurance pits: car 0.1 m from the spot, 11.9 m up
+[smoke] screenshot /home/runner/work/Rust-bucket-racing-/Rust-bucket-racing-/out/shots/110-compound-endurance-pits.jpg
+[smoke] 225.0s compound: go to Drift track | compound/rust cam 0 | pos 1489.2 0.18 463.0 | -0 km/h 800 rpm gear 1 | 6 fps 223 draws 138858 tris
+[smoke] compound: Drift track: car 0.1 m from the spot, 0.2 m up
+[smoke] screenshot /home/runner/work/Rust-bucket-racing-/Rust-bucket-racing-/out/shots/111-compound-drift-track.jpg
+[smoke] 226.1s compound: go to Drag strip | compound/rust cam 0 | pos -191.1 -1.39 996.0 | -0 km/h 800 rpm gear 1 | 7 fps 255 draws 145747 tris
+[smoke] compound: Drag strip: car 0.1 m from the spot, -1.4 m up
+[smoke] screenshot /home/runner/work/Rust-bucket-racing-/Rust-bucket-racing-/out/shots/112-compound-drag-strip.jpg
+[smoke] 227.2s compound: go to Slalom pad | compound/rust cam 0 | pos -1229.9 -1.12 755.0 | -0 km/h 800 rpm gear 1 | 6 fps 349 draws 282198 tris
+[smoke] compound: Slalom pad: car 0.1 m from the spot, -1.1 m up
+[smoke] screenshot /home/runner/work/Rust-bucket-racing-/Rust-bucket-racing-/out/shots/113-compound-slalom-pad.jpg
+[smoke] 228.2s compound: go to Main gate | compound/rust cam 0 | pos 200.0 15.71 3899.9 | 0 km/h 800 rpm gear 1 | 5 fps 396 draws 308173 tris
+[smoke] compound: Main gate: car 0.1 m from the spot, 15.7 m up
+[smoke] screenshot /home/runner/work/Rust-bucket-racing-/Rust-bucket-racing-/out/shots/114-compound-main-gate.jpg
+[smoke] 229.3s compound: drag run | compound/rust cam 0 | pos -191.1 -1.39 996.0 | -0 km/h 800 rpm gear 1 | 5 fps 255 draws 145747 tris
+[smoke] 230.4s compound: drag run | compound/rust cam 0 | pos -191.8 -1.39 996.0 | 10 km/h 3369 rpm gear 1 | 6 fps 258 draws 145695 tris
+[smoke] 231.4s compound: drag run | compound/rust cam 0 | pos -195.5 -1.39 996.0 | 23 km/h 3400 rpm gear 1 | 6 fps 256 draws 145355 tris
+[smoke] 232.5s compound: drag run | compound/rust cam 0 | pos -201.7 -1.39 996.0 | 32 km/h 4614 rpm gear 1 | 6 fps 258 draws 145385 tris
+[smoke] 233.6s compound: drag run | compound/rust cam 0 | pos -209.9 -1.39 996.0 | 41 km/h 5869 rpm gear 1 | 6 fps 260 draws 145571 tris
+[smoke] 234.6s compound: drag run | compound/rust cam 0 | pos -219.8 -1.39 996.0 | 47 km/h 4014 rpm gear 2 | 5 fps 262 draws 143784 tris
+[smoke] 235.7s compound: drag run | compound/rust cam 0 | pos -231.0 -1.39 996.0 | 53 km/h 4323 rpm gear 2 | 6 fps 261 draws 143616 tris
+[smoke] 236.8s compound: drag run | compound/rust cam 0 | pos -243.6 -1.39 996.0 | 59 km/h 4814 rpm gear 2 | 6 fps 261 draws 143616 tris
+[smoke] screenshot /home/runner/work/Rust-bucket-racing-/Rust-bucket-racing-/out/shots/115-compound-drag-run.jpg
+[smoke] 237.8s compound: drag run | compound/rust cam 0 | pos -257.4 -1.39 996.0 | 65 km/h 5286 rpm gear 2 | 6 fps 261 draws 143616 tris
+[smoke] 238.9s compound: drag run | compound/rust cam 0 | pos -272.6 -1.39 996.0 | 71 km/h 5730 rpm gear 2 | 6 fps 258 draws 142850 tris
+[smoke] 240.0s compound: drag run | compound/rust cam 0 | pos -289.0 -1.39 996.0 | 76 km/h 6145 rpm gear 2 | 6 fps 257 draws 142094 tris
+[smoke] 241.0s compound: drag run | compound/rust cam 0 | pos -306.5 -1.39 996.0 | 81 km/h 6522 rpm gear 2 | 6 fps 258 draws 142158 tris
+[smoke] 242.1s compound: drag run | compound/rust cam 0 | pos -324.7 -1.39 996.0 | 84 km/h 4356 rpm gear 3 | 6 fps 257 draws 142094 tris
+[smoke] 243.2s compound: drag run | compound/rust cam 0 | pos -343.8 -1.39 996.0 | 88 km/h 4551 rpm gear 3 | 6 fps 258 draws 143819 tris
+[smoke] 244.2s compound: drag run | compound/rust cam 0 | pos -363.7 -1.39 996.0 | 91 km/h 4742 rpm gear 3 | 6 fps 258 draws 143819 tris
+[perf] 8 fps · worst 149 ms · 226 frames over 70 ms · gc 0 minor / 0 full · managed 489 MB · engine 460 MB · video 918 MB · 257 draws 143k tris · compound/rust · quality 1
+[smoke] 245.3s compound: drag run | compound/rust cam 0 | pos -384.4 -1.39 996.0 | 95 km/h 4928 rpm gear 3 | 6 fps 257 draws 142516 tris
+[smoke] 246.4s compound: drag run | compound/rust cam 0 | pos -405.9 -1.39 996.0 | 99 km/h 5110 rpm gear 3 | 6 fps 255 draws 141412 tris
+[smoke] 247.4s compound: drag run | compound/rust cam 0 | pos -428.2 -1.39 996.0 | 102 km/h 5286 rpm gear 3 | 6 fps 251 draws 140217 tris
+[smoke] 248.5s compound: drag run | compound/rust cam 0 | pos -451.2 -1.39 996.0 | 105 km/h 5455 rpm gear 3 | 6 fps 251 draws 140217 tris
+[smoke] 249.6s compound: drag run | compound/rust cam 0 | pos -475.0 -1.39 996.0 | 108 km/h 5618 rpm gear 3 | 7 fps 251 draws 140217 tris
+[smoke] 250.6s compound: drag run | compound/rust cam 0 | pos -499.4 -1.39 996.0 | 111 km/h 5775 rpm gear 3 | 6 fps 251 draws 140217 tris
+[smoke] 251.7s compound: drag run | compound/rust cam 0 | pos -524.5 -1.39 996.0 | 114 km/h 5926 rpm gear 3 | 6 fps 251 draws 140217 tris
+[smoke] 252.8s compound: drag run | compound/rust cam 0 | pos -550.3 -1.39 996.0 | 117 km/h 6071 rpm gear 3 | 6 fps 252 draws 140227 tris
+[smoke] 253.8s compound: drag run | compound/rust cam 0 | pos -576.7 -1.39 996.0 | 120 km/h 6210 rpm gear 3 | 6 fps 253 draws 141818 tris
+[smoke] compound: drag strip: drag 16.956 valid 123 km/h
+[smoke] 254.9s compound: drag run | compound/rust cam 0 | pos -603.6 -1.39 996.0 | 123 km/h 6340 rpm gear 3 | 6 fps 256 draws 142270 tris
+[smoke] 256.0s compound: drag run | compound/rust cam 0 | pos -627.7 -1.39 996.0 | 94 km/h 4268 rpm gear 3 | 7 fps 254 draws 142139 tris
+[smoke] 257.0s compound: drag run | compound/rust cam 0 | pos -645.2 -1.39 996.0 | 64 km/h 4651 rpm gear 2 | 6 fps 252 draws 141763 tris
+[smoke] 258.1s compound: drag run | compound/rust cam 0 | pos -656.1 -1.39 996.0 | 34 km/h 4608 rpm gear 1 | 6 fps 248 draws 139833 tris
+[smoke] 259.2s compound: drag run | compound/rust cam 0 | pos -660.5 -1.39 996.0 | 6 km/h 776 rpm gear 1 | 6 fps 240 draws 126622 tris
+[smoke] 260.2s compound: drag run | compound/rust cam 0 | pos -660.5 -1.39 996.0 | -2 km/h 2578 rpm gear -1 | 6 fps 238 draws 126680 tris
+[smoke] 261.3s compound: slalom run | compound/rust cam 0 | pos -1229.7 -1.12 755.0 | 5 km/h 2566 rpm gear 1 | 6 fps 352 draws 282334 tris
+[smoke] 262.4s compound: slalom run | compound/rust cam 0 | pos -1227.6 -1.12 755.0 | 14 km/h 2620 rpm gear 1 | 6 fps 350 draws 281996 tris
+[smoke] 263.4s compound: slalom run | compound/rust cam 0 | pos -1223.7 -1.12 755.0 | 20 km/h 2883 rpm gear 1 | 5 fps 350 draws 281914 tris
+[smoke] 264.5s compound: slalom run | compound/rust cam 0 | pos -1218.5 -1.12 755.0 | 27 km/h 3743 rpm gear 1 | 6 fps 353 draws 292323 tris
+[smoke] 265.6s compound: slalom run | compound/rust cam 0 | pos -1211.9 -1.12 755.0 | 33 km/h 4659 rpm gear 1 | 5 fps 353 draws 292323 tris
+[smoke] 266.6s compound: slalom run | compound/rust cam 0 | pos -1203.8 -1.12 755.0 | 39 km/h 5534 rpm gear 1 | 6 fps 356 draws 292440 tris
+[smoke] 267.7s compound: slalom run | compound/rust cam 0 | pos -1194.5 -1.12 755.0 | 45 km/h 6322 rpm gear 1 | 6 fps 357 draws 292426 tris
+[smoke] 268.8s compound: slalom run | compound/rust cam 0 | pos -1184.0 -1.12 755.0 | 49 km/h 3908 rpm gear 2 | 6 fps 357 draws 292484 tris
+[smoke] 269.8s compound: slalom run | compound/rust cam 0 | pos -1172.9 -1.12 755.0 | 50 km/h 3935 rpm gear 2 | 6 fps 352 draws 282279 tris
+[smoke] 270.9s compound: slalom run | compound/rust cam 0 | pos -1161.7 -1.12 755.0 | 51 km/h 4029 rpm gear 2 | 6 fps 355 draws 282431 tris
+[smoke] 272.0s compound: slalom run | compound/rust cam 0 | pos -1150.4 -1.12 755.0 | 50 km/h 4026 rpm gear 2 | 5 fps 356 draws 289974 tris
+[smoke] 273.0s compound: slalom run | compound/rust cam 0 | pos -1139.2 -1.12 755.0 | 50 km/h 3923 rpm gear 2 | 6 fps 353 draws 289946 tris
+[smoke] 274.1s compound: slalom run | compound/rust cam 0 | pos -1128.0 -1.12 755.0 | 50 km/h 4018 rpm gear 2 | 5 fps 356 draws 290584 tris
+[perf] 8 fps · worst 149 ms · 226 frames over 70 ms · gc 0 minor / 0 full · managed 489 MB · engine 460 MB · video 918 MB · 356 draws 290k tris · compound/rust · quality 1
+[smoke] 275.2s compound: slalom run | compound/rust cam 0 | pos -1116.8 -1.12 755.0 | 51 km/h 4032 rpm gear 2 | 5 fps 356 draws 290584 tris
+[smoke] 276.2s compound: slalom run | compound/rust cam 0 | pos -1105.6 -1.12 755.0 | 50 km/h 3918 rpm gear 2 | 6 fps 353 draws 290432 tris
+[smoke] 277.3s compound: slalom run | compound/rust cam 0 | pos -1094.4 -1.12 755.0 | 51 km/h 4030 rpm gear 2 | 6 fps 356 draws 290584 tris
+[smoke] 278.4s compound: slalom run | compound/rust cam 0 | pos -1083.2 -1.12 755.0 | 50 km/h 3931 rpm gear 2 | 6 fps 355 draws 292630 tris
+[smoke] 279.4s compound: slalom run | compound/rust cam 0 | pos -1072.0 -1.12 755.0 | 50 km/h 3993 rpm gear 2 | 5 fps 359 draws 298504 tris
+[smoke] 280.5s compound: slalom run | compound/rust cam 0 | pos -1060.8 -1.12 755.0 | 50 km/h 3919 rpm gear 2 | 6 fps 355 draws 297932 tris
+[smoke] 281.6s compound: slalom run | compound/rust cam 0 | pos -1049.6 -1.12 755.0 | 50 km/h 3923 rpm gear 2 | 5 fps 355 draws 297932 tris
+[smoke] 282.6s compound: slalom run | compound/rust cam 0 | pos -1038.4 -1.12 755.0 | 50 km/h 4063 rpm gear 2 | 5 fps 359 draws 299837 tris
+[smoke] 283.7s compound: slalom run | compound/rust cam 0 | pos -1027.2 -1.12 755.0 | 51 km/h 4086 rpm gear 2 | 6 fps 359 draws 302998 tris
+[smoke] 284.8s compound: slalom run | compound/rust cam 0 | pos -1016.0 -1.12 755.0 | 50 km/h 3932 rpm gear 2 | 5 fps 356 draws 302846 tris
+[smoke] 285.8s compound: slalom run | compound/rust cam 0 | pos -1004.8 -1.12 755.0 | 50 km/h 4011 rpm gear 2 | 6 fps 360 draws 303443 tris
+[smoke] 286.9s compound: slalom run | compound/rust cam 0 | pos -993.6 -1.12 755.0 | 50 km/h 3942 rpm gear 2 | 5 fps 356 draws 303004 tris
+[smoke] 288.0s compound: slalom run | compound/rust cam 0 | pos -982.4 -1.12 755.0 | 51 km/h 4080 rpm gear 2 | 6 fps 360 draws 303441 tris
+[smoke] 289.0s compound: slalom run | compound/rust cam 0 | pos -971.1 -1.12 755.0 | 50 km/h 4031 rpm gear 2 | 5 fps 356 draws 300098 tris
+[smoke] 290.1s compound: slalom run | compound/rust cam 0 | pos -959.9 -1.12 755.0 | 51 km/h 3944 rpm gear 2 | 5 fps 352 draws 303904 tris
+[smoke] 291.2s compound: slalom run | compound/rust cam 0 | pos -948.8 -1.12 755.0 | 50 km/h 4026 rpm gear 2 | 6 fps 354 draws 305763 tris
+[smoke] 292.2s compound: slalom run | compound/rust cam 0 | pos -937.6 -1.12 755.0 | 51 km/h 4027 rpm gear 2 | 5 fps 353 draws 305397 tris
+[smoke] 293.3s compound: slalom run | compound/rust cam 0 | pos -926.4 -1.12 755.0 | 51 km/h 4025 rpm gear 2 | 6 fps 352 draws 303712 tris
+[smoke] 294.4s compound: slalom run | compound/rust cam 0 | pos -915.2 -1.12 755.0 | 50 km/h 3976 rpm gear 2 | 5 fps 354 draws 309571 tris
+[smoke] 295.4s compound: slalom run | compound/rust cam 0 | pos -904.0 -1.12 755.0 | 51 km/h 4089 rpm gear 2 | 5 fps 353 draws 309222 tris
+[smoke] 296.5s compound: slalom run | compound/rust cam 0 | pos -892.8 -1.12 755.0 | 50 km/h 3999 rpm gear 2 | 6 fps 353 draws 309222 tris
+[smoke] 297.6s compound: slalom run | compound/rust cam 0 | pos -881.6 -1.12 755.0 | 50 km/h 4056 rpm gear 2 | 6 fps 354 draws 309390 tris
+[smoke] 298.6s compound: slalom run | compound/rust cam 0 | pos -870.4 -1.12 755.0 | 51 km/h 3947 rpm gear 2 | 5 fps 349 draws 309766 tris
+[smoke] 299.7s compound: slalom run | compound/rust cam 0 | pos -859.2 -1.12 755.0 | 50 km/h 4056 rpm gear 2 | 5 fps 353 draws 310155 tris
+[smoke] 300.8s compound: slalom run | compound/rust cam 0 | pos -848.0 -1.12 755.0 | 50 km/h 3922 rpm gear 2 | 6 fps 349 draws 315023 tris
+[smoke] 301.8s compound: slalom run | compound/rust cam 0 | pos -836.8 -1.12 755.0 | 50 km/h 3925 rpm gear 2 | 6 fps 347 draws 312919 tris
+[smoke] compound: slalom: slalom 65.447 valid 50 km/h, 19 cones down
+[smoke] screenshot /home/runner/work/Rust-bucket-racing-/Rust-bucket-racing-/out/shots/116-compound-slalom-after.jpg
+[smoke] 302.9s compound: oval lap clock | compound/rust cam 0 | pos -224.6 3.07 188.6 | 1 km/h 4433 rpm gear 1 | 5 fps 328 draws 295776 tris
+[smoke] 304.0s compound: oval lap clock | compound/rust cam 0 | pos -223.7 2.85 188.5 | 7 km/h 3694 rpm gear 1 | 5 fps 325 draws 304146 tris
+[perf] 7 fps · worst 148 ms · 225 frames over 70 ms · gc 0 minor / 0 full · managed 490 MB · engine 469 MB · video 918 MB · 326 draws 300k tris · compound/rust · quality 1
+[smoke] 305.0s compound: oval lap clock | compound/rust cam 0 | pos -222.2 3.04 189.8 | 9 km/h 1348 rpm gear 1 | 4 fps 325 draws 291601 tris
+[smoke] 306.1s compound: oval lap clock | compound/rust cam 0 | pos -221.2 3.48 192.2 | 17 km/h 3397 rpm gear 1 | 4 fps 324 draws 291961 tris
+[smoke] 307.2s compound: oval lap clock | compound/rust cam 0 | pos -219.4 4.21 196.4 | 24 km/h 3499 rpm gear 1 | 4 fps 324 draws 291915 tris
+[smoke] 308.2s compound: oval lap clock | compound/rust cam 0 | pos -217.8 4.16 196.8 | 4 km/h 1166 rpm gear 1 | 4 fps 318 draws 289471 tris
+[smoke] 309.3s compound: oval lap clock | compound/rust cam 0 | pos -216.7 4.14 197.1 | 6 km/h 3028 rpm gear 1 | 4 fps 327 draws 307015 tris
+[smoke] 310.4s compound: oval lap clock | compound/rust cam 0 | pos -214.5 4.05 197.6 | 14 km/h 3206 rpm gear 1 | 4 fps 319 draws 300056 tris
+[smoke] 311.4s compound: oval lap clock | compound/rust cam 0 | pos -210.3 3.80 197.9 | 25 km/h 3517 rpm gear 1 | 4 fps 324 draws 294469 tris
+[smoke] 312.5s compound: oval lap clock | compound/rust cam 0 | pos -203.7 3.44 198.2 | 35 km/h 4929 rpm gear 1 | 5 fps 321 draws 291741 tris
+[smoke] compound: Oval lap clock NOT running  WARN
+[smoke] screenshot /home/runner/work/Rust-bucket-racing-/Rust-bucket-racing-/out/shots/117-compound-oval.jpg
+[smoke] 313.6s compound: gp lap clock | compound/rust cam 0 | pos 298.4 0.47 560.0 | 3 km/h 2710 rpm gear 1 | 4 fps 327 draws 277517 tris
+[smoke] 314.6s compound: gp lap clock | compound/rust cam 0 | pos 296.5 0.47 560.0 | 15 km/h 3393 rpm gear 1 | 4 fps 328 draws 277750 tris
+[smoke] 315.7s compound: gp lap clock | compound/rust cam 0 | pos 291.8 0.47 560.0 | 26 km/h 3773 rpm gear 1 | 4 fps 330 draws 289311 tris
+[smoke] 316.8s compound: gp lap clock | compound/rust cam 0 | pos 284.9 0.47 560.0 | 36 km/h 5106 rpm gear 1 | 4 fps 332 draws 291957 tris
+[smoke] 317.8s compound: gp lap clock | compound/rust cam 0 | pos 276.0 0.47 560.0 | 44 km/h 6289 rpm gear 1 | 5 fps 335 draws 293361 tris
+[smoke] 318.9s compound: gp lap clock | compound/rust cam 0 | pos 265.6 0.47 560.0 | 50 km/h 4010 rpm gear 2 | 4 fps 335 draws 303493 tris
+[smoke] 320.0s compound: gp lap clock | compound/rust cam 0 | pos 253.9 0.47 560.0 | 56 km/h 4512 rpm gear 2 | 4 fps 335 draws 290626 tris
+[smoke] 321.0s compound: gp lap clock | compound/rust cam 0 | pos 240.8 0.47 560.0 | 62 km/h 4995 rpm gear 2 | 4 fps 331 draws 264396 tris
+[smoke] 322.1s compound: gp lap clock | compound/rust cam 0 | pos 226.4 0.47 560.0 | 68 km/h 5457 rpm gear 2 | 5 fps 330 draws 244402 tris
+[smoke] 323.2s compound: gp lap clock | compound/rust cam 0 | pos 210.8 0.47 560.0 | 73 km/h 5890 rpm gear 2 | 4 fps 330 draws 241669 tris
+[smoke] compound: Grand Prix lap clock running (3.4 s), HUD shows GP (Grand Prix)
+[smoke] screenshot /home/runner/work/Rust-bucket-racing-/Rust-bucket-racing-/out/shots/118-compound-gp.jpg
+[smoke] 324.2s compound: enduro lap clock | compound/rust cam 0 | pos -40.2 11.86 3650.0 | 1 km/h 2444 rpm gear 1 | 5 fps 258 draws 177575 tris
+[smoke] 325.3s compound: enduro lap clock | compound/rust cam 0 | pos -38.7 11.86 3650.0 | 13 km/h 3380 rpm gear 1 | 5 fps 255 draws 173545 tris
+[smoke] 326.4s compound: enduro lap clock | compound/rust cam 0 | pos -34.3 11.86 3650.0 | 25 km/h 3607 rpm gear 1 | 7 fps 256 draws 173663 tris
+[smoke] 327.4s compound: enduro lap clock | compound/rust cam 0 | pos -27.7 11.86 3650.0 | 35 km/h 4943 rpm gear 1 | 6 fps 258 draws 174248 tris
+[smoke] 328.5s compound: enduro lap clock | compound/rust cam 0 | pos -19.0 11.86 3650.0 | 43 km/h 6153 rpm gear 1 | 6 fps 258 draws 174248 tris
+[smoke] 329.6s compound: enduro lap clock | compound/rust cam 0 | pos -8.7 11.86 3650.0 | 49 km/h 3951 rpm gear 2 | 6 fps 260 draws 177358 tris
+[smoke] 330.6s compound: enduro lap clock | compound/rust cam 0 | pos 2.9 11.87 3650.0 | 55 km/h 4459 rpm gear 2 | 6 fps 263 draws 177456 tris
+[smoke] 331.7s compound: enduro lap clock | compound/rust cam 0 | pos 15.7 11.86 3650.0 | 61 km/h 4936 rpm gear 2 | 6 fps 259 draws 171530 tris
+[smoke] 332.8s compound: enduro lap clock | compound/rust cam 0 | pos 29.9 11.86 3650.0 | 67 km/h 5401 rpm gear 2 | 6 fps 255 draws 155599 tris
+[smoke] 333.8s compound: enduro lap clock | compound/rust cam 0 | pos 45.4 11.86 3650.0 | 72 km/h 5838 rpm gear 2 | 7 fps 256 draws 159724 tris
+[perf] 7 fps · worst 149 ms · 225 frames over 70 ms · gc 0 minor / 0 full · managed 490 MB · engine 487 MB · video 918 MB · 257 draws 159k tris · compound/rust · quality 1
+[smoke] compound: Endurance circuit lap clock running (3.4 s), HUD shows ENDURO (Endurance circuit)
+[smoke] screenshot /home/runner/work/Rust-bucket-racing-/Rust-bucket-racing-/out/shots/119-compound-enduro.jpg
+[smoke] 334.9s compound: drift lap clock | compound/rust cam 0 | pos 1509.1 0.15 460.6 | 77 km/h 800 rpm gear 1 | 6 fps 257 draws 159856 tris
+[smoke] 336.0s compound: drift lap clock | compound/rust cam 0 | pos 1510.2 0.14 460.5 | 12 km/h 3345 rpm gear 1 | 6 fps 226 draws 142759 tris
+[smoke] 337.0s compound: drift lap clock | compound/rust cam 0 | pos 1514.3 0.13 460.0 | 24 km/h 3449 rpm gear 1 | 7 fps 226 draws 142759 tris
+[smoke] 338.1s compound: drift lap clock | compound/rust cam 0 | pos 1520.6 0.13 459.2 | 33 km/h 4784 rpm gear 1 | 7 fps 226 draws 141065 tris
+[smoke] 339.2s compound: drift lap clock | compound/rust cam 0 | pos 1529.0 0.10 458.2 | 42 km/h 6026 rpm gear 1 | 7 fps 226 draws 141065 tris
+[smoke] 340.2s compound: drift lap clock | compound/rust cam 0 | pos 1539.1 0.05 456.9 | 48 km/h 3907 rpm gear 2 | 6 fps 226 draws 141065 tris
+[smoke] 341.3s compound: drift lap clock | compound/rust cam 0 | pos 1550.4 0.02 455.6 | 54 km/h 4412 rpm gear 2 | 7 fps 230 draws 143994 tris
+[smoke] 342.4s compound: drift lap clock | compound/rust cam 0 | pos 1563.1 -0.06 454.0 | 61 km/h 4907 rpm gear 2 | 7 fps 230 draws 143994 tris
+[smoke] 343.4s compound: drift lap clock | compound/rust cam 0 | pos 1577.2 -0.14 452.3 | 67 km/h 5386 rpm gear 2 | 7 fps 230 draws 143994 tris
+[smoke] 344.5s compound: drift lap clock | compound/rust cam 0 | pos 1592.5 -0.24 450.4 | 72 km/h 5836 rpm gear 2 | 6 fps 230 draws 143994 tris
+[smoke] compound: Drift track lap clock running (3.3 s), HUD shows DRIFT (Drift track)
+[smoke] screenshot /home/runner/work/Rust-bucket-racing-/Rust-bucket-racing-/out/shots/120-compound-drift.jpg
+[smoke] 345.6s compound: reset to the road | compound/rust cam 0 | pos -3000.1 -30.57 -1500.1 | 78 km/h 800 rpm gear 1 | 7 fps 231 draws 144058 tris
+[smoke] 346.6s compound: reset to the road | compound/rust cam 0 | pos -3516.6 -28.86 -1457.0 | 0 km/h 800 rpm gear 1 | 7 fps 201 draws 100412 tris
+[smoke] compound: reset from a field: 0.1 m from the road centreline now
+[smoke] screenshot /home/runner/work/Rust-bucket-racing-/Rust-bucket-racing-/out/shots/121-compound-reset.jpg
+[boot] map spa let go
+[boot] map removed: spa
+[boot] menus rebuilt without spa
+[smoke] remove Spa: gone; maps now grid, iroha, iroha_autumn, mcr, compound, haruna
+[smoke] removing the map being driven (compound)
+[boot] loading map grid
+[boot] sky kloofendal_48d_partly_cloudy_puresky: panorama x0.87, sun 1.24 at 48 deg, ambient grey 0.65
+[boot] map grid ready
+[boot] off map compound: now on grid
+[boot] map compound let go
+[boot] map removed: compound
+[boot] menus rebuilt without compound
+[smoke] removed: True, now on grid
+[smoke] frame 1 after the removal
+[smoke] frame 2 after the removal
+[smoke] frame 3 after the removal
+[smoke] removing the map being driven (compound): now on grid
+[boot] menus
+[boot] map catalogue: 6 maps available (result 0, http 200)
+[smoke] 347.7s map library: remove | grid/rust cam 0 | pos -0.0 0.47 4.9 | 0 km/h 800 rpm gear 1 | 7 fps 110 draws 12632 tris
+[smoke] screenshot /home/runner/work/Rust-bucket-racing-/Rust-bucket-racing-/out/shots/122-maps-after-remove.jpg
+[boot] drive
+[smoke] 348.8s back to the proving ground | grid/rust cam 0 | pos 0.0 0.47 4.9 | 0 km/h 800 rpm gear 1 | 3 fps 169 draws 1310450 tris
+[smoke] 349.8s back to the proving ground | grid/rust cam 0 | pos -0.0 0.47 4.7 | 3 km/h 2072 rpm gear 1 | 4 fps 170 draws 1310254 tris
+[smoke] screenshot /home/runner/work/Rust-bucket-racing-/Rust-bucket-racing-/out/shots/123-grid-again.jpg
+[smoke] SMOKE OK after 351 s
